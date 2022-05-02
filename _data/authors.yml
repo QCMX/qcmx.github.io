@@ -1,0 +1,11 @@
+Landry Bretheau:
+  name        : "Landry Bretheau"
+  bio         :
+  avatar      : "/assets/images/avatar-landry.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:landry.bretheau@polytechnique.edu"
+    - label: "Phone"
+      icon: "fas fa-fw fa-phone"
+      url: "tel:+33169334718"

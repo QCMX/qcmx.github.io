@@ -1,0 +1,4 @@
+
+# This changes the "Follow" text to "Contact" in the minified author profile.
+en:
+  follow_label: "Contact"
