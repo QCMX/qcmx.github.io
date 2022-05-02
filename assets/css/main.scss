@@ -10,3 +10,61 @@
 h1 {
     text-align: center
 }
+
+/* Team grid ================================================ */
+
+
+.teamgrid {
+  @include clearfix();
+  margin-bottom: 2em;
+}
+
+.teamgrid__item {
+  position: relative;
+  margin-bottom: 1em;
+  text-align: center;
+
+  @include breakpoint($small) {
+    float: left;
+    margin-bottom: 1em;
+    width: span(6 of 12);
+
+    &:nth-child(2n + 1) {
+      clear: both;
+      margin-left: 0;
+    }
+
+    &:nth-child(2n + 2) {
+      clear: none;
+      margin-left: gutter(of 12);
+    }
+  }
+
+  .teamgrid__item-body {
+    padding-left: gutter(1 of 12);
+    padding-right: gutter(1 of 12);
+
+    .name {
+      font-weight: bold;
+    }
+
+    .team__urls {
+      color: $muted-text-color;
+      font-size: 0.8em;
+
+      a {
+        margin-bottom: 5px;
+        padding-right: 5px;
+        padding-top: 2px;
+        padding-bottom: 2px;
+        color: inherit;
+        font-size: $type-size-5;
+        text-decoration: none;
+    
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}

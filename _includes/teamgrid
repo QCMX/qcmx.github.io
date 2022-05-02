@@ -4,34 +4,36 @@
   {% assign teamgrid = page.teamgrid %}
 {% endif %}
 
-<div class="feature__wrapper">
+<div class="teamgrid">
 
   {% for f in teamgrid %}
-    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
-      <div class="archive__item">
-        {% if f.image_path %}
-          <div class="archive__item-teaser">
-            <img src="{{ f.image_path | relative_url }}"
-                 alt="{% if f.alt %}{{ f.alt }}{% endif %}">
-            {% if f.image_caption %}
-              <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
-            {% endif %}
-          </div>
+    <div class="teamgrid__item">
+      <div class="teamgrid__item-body">
+        {% if f.url %}
+          <div class="name"><a href="{{ f.url | relative_url }}">{{ f.name }}</a></div>
+        {% else %}
+          <div class="name">{{ f.name }}</div>
         {% endif %}
 
-        <div class="archive__item-body">
-          {% if f.title %}
-            <h2 class="archive__item-title">{{ f.title }}</h2>
-          {% endif %}
+        <div class="description">{{ f.description }}</div>
 
-          {% if f.excerpt %}
-            <div class="archive__item-excerpt">
-              {{ f.excerpt | markdownify }}
-            </div>
+        <div class="team__urls">
+          {% if f.email %}
+              <a href="mailto:{{ f.email }}" class="u-email">
+                <meta itemprop="email" content="{{ f.email }}" />
+                <i class="fas fa-fw fa-envelope" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</span>
+              </a>
           {% endif %}
-
-          {% if f.url %}
-            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+          {% if f.phone %}
+            <a href="tel:{{ f.phone }}" class="u-email">
+              <meta itemprop="phone" content="{{ f.phone }}" />
+              <i class="fas fa-fw fa-phone" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].phone_label | default: "Phone" }}</span>
+            </a>
+          {% endif %}
+          {% if f.orcid %}
+            <a href="https://orcid.org/{{ f.orcid }}" class="u-email">
+              <i class="fab fa-fw fa-orcid" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].phone_label | default: "ORCID" }}</span>
+            </a>
           {% endif %}
         </div>
       </div>

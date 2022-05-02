@@ -2,7 +2,8 @@ This webpage is hosted via GitHub pages.
 
 To do:
 
-  * Present research as feature column
+  * Email obfuscation
+  * GDPR, legal notice
   * Page descriptions for SEO
 
 # Editing
