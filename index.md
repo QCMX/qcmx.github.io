@@ -36,7 +36,8 @@ teamgrid:
   - name: Landry Bretheau
     url: /bretheau/
     description: Faculty
-    email: landry.bretheau@polytechnique.edu
+    email: ynaqel.oergurnh@cbylgrpuavdhr.rqh
+    decode: true
     phone:
   - name: Jean-Damien Pillet
     url: /pillet
@@ -45,7 +46,8 @@ teamgrid:
     phone:
   - name: Ambroise Peugeot
     description: Post-Doc
-    email: landry.bretheau@polytechnique.edu
+    email: nzoebvfr.crhtrbg@cbylgrpuavdhr.rqh
+    decode: true
     phone:
   - name: Joël Griesmar
     description: Post-Doc
@@ -53,7 +55,8 @@ teamgrid:
     phone:
   - name: Everton Arrighi
     description: Research Engineer
-    email: everton.arrighi@polytechnique.edu
+    email: riregba.neevtuv@cbylgrpuavdhr.rqh
+    decode: true
     phone: "+33169334743"
   - name: Samy Annabi
     description: PhD Student

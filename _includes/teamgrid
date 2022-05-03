@@ -19,8 +19,7 @@
 
         <div class="team__urls">
           {% if f.email %}
-              <a href="mailto:{{ f.email }}" class="u-email">
-                <meta itemprop="email" content="{{ f.email }}" />
+              <a href="mailto:{{ f.email }}" class="u-email {% if f.decode %}decode-href{% endif %}">
                 <i class="fas fa-fw fa-envelope" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</span>
               </a>
           {% endif %}
