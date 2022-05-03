@@ -7,7 +7,7 @@ title: Research
 The QCMX Lab was created in September 2017 by Landry Bretheau and jean-Damien Pillet. Since then, we’ve been building up from scratch a brand new laboratory dedicated to the development and measurement of hybrid quantum circuits. This requires access to temperatures close to absolute zero (few mK), nanofabrication tools for the creation of new architectures and electronic instruments in the DC and microwave range for quantum control. The QCMX Lab currently contains two dilution cryostats (from the company BlueFors), which makes it the coldest point of l’X.
 
 <figure>
-  <img src="/assets/images/lab-design.png" alt="3 dimensional schematic drawing of laboratory space">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/lab-design.png" alt="3 dimensional schematic drawing of laboratory space">
   <figcaption>Layout of lab room with dilution fridges.</figcaption>
 </figure>
 

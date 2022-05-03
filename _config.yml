@@ -20,6 +20,7 @@ title                    : "QCMX lab"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "QCMX lab"
+copyright                : "Laboratoire de Physique de la Matière Condensée"
 description              : "The QCMX Lab explores the quantum properties of electronic circuits and matter. We couple superconducting circuits normally used to process quantum information to exotic materials in order to probe their quantum properties and discover new electronic states of matter. This could make it possible to identify new carriers of quantum information and to simulate complex many-body quantum problems."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
