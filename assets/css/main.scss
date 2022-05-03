@@ -7,8 +7,12 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+body {
+  line-height: 2;
+}
+
 h1 {
-    text-align: center
+  text-align: center
 }
 
 /* Team grid ================================================ */
