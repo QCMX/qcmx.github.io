@@ -7,6 +7,9 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+$accent-color: #bc0000;
+$timelinecolor: #f2f2f2;
+
 body {
   line-height: 2;
 }
@@ -70,5 +73,68 @@ h1 {
         }
       }
     }
+  }
+}
+
+/* Timeline ================================================= */
+
+.timeline {
+  box-sizing: border-box;
+
+  li {
+    margin: 0;
+    padding: 0 20px 20px 30px;
+    list-style: none;
+    border-left: 2px solid $timelinecolor;
+  }
+
+  li::before {
+    content: "";
+    display: block;
+    position: absolute;
+    box-sizing: border-box;
+    margin-top: 18px;
+    margin-left: -35px;
+    width: 8px;
+    height: 8px;
+    border: solid 2px $accent-color; /* TODO use accent color here */
+    border-radius: 50px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    background: $background-color;
+  }
+
+  li:first-child::before {
+      border: 0;
+      background: none;
+      position: relative;
+  }
+  li:first-child i {
+      float: left;
+      margin: -12px -55px;
+      width: 50px;
+      height: 50px;
+      border-radius: 30px;
+      line-height: 50px;
+      font-size: 20px;
+      background-color: $accent-color;
+      color: white;
+  }
+
+  h3 {
+      margin: 0px 0px 0.5em 25px;
+      margin-left: 25px;
+      font-size: 20px;
+      text-transform: uppercase;
+  }
+
+  li:last-child {
+      padding: 0 20px 0px 30px;
+  }
+
+  div {
+    background-color: $timelinecolor;
+    padding: 0.8em;
+    line-height: 1.5;
   }
 }

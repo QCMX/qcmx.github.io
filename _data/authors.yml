@@ -10,3 +10,9 @@ Landry Bretheau:
     - label: "Phone"
       icon: "fas fa-fw fa-phone"
       url: "tel:+33169334718"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/landry-bretheau-896052207/
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: https://orcid.org/0000-0001-5628-934X
