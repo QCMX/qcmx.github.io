@@ -30,3 +30,7 @@ Using [rbenv](https://github.com/rbenv/rbenv) and [ruby-build](https://github.co
 
     bundle
     bundle exec jekyll serve
+
+Then running the server again simply requires
+
+    bundle exec jekyll serve
