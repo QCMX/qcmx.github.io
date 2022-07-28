@@ -95,7 +95,7 @@ groupphoto:
 
 # News
 
-?
+- Feb 2022: Welcome to Everton who joined the group as a Research Engineer.
 
 # Funding
 
