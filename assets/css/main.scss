@@ -24,6 +24,7 @@ h1 {
 .teamgrid {
   @include clearfix();
   margin-bottom: 2em;
+  line-height: 1.5;
 }
 
 .teamgrid__item {

@@ -2,6 +2,8 @@ This webpage is hosted via GitHub pages.
 
 To do:
 
+  * Timeline responsive
+  * Accent color
   * GDPR, legal notice
   * Page descriptions for SEO
 
