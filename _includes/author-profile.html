@@ -240,6 +240,19 @@
         </li>
       {% endif %}
 
+      {% if author.address %}
+        <li style="white-space: normal;">
+          <i class="fas fa-fw fa-map-marked" aria-hidden="true"></i>
+          {{ author.address }}
+        </li>
+      {% endif %}
+      {% if author.office %}
+        <li style="white-space: normal;">
+          <i class="fas fa-fw fa-building" aria-hidden="true"></i>
+          {{ author.office }}
+        </li>
+      {% endif %}
+
       {% include author-profile-custom-links.html %}
     </ul>
   </div>

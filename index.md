@@ -38,34 +38,38 @@ teamgrid:
     description: Faculty
     email: ynaqel.oergurnh@cbylgrpuavdhr.rqh
     decode: true
-    phone:
+    phone: "+33 16933 4718"
   - name: Jean-Damien Pillet
     url: /pillet
     description: Faculty
-    email:
-    phone:
+    email: wrna-qnzvra.cvyyrg@cbylgrpuavdhr.rqh
+    decode: true
+    phone: "+33 16933 4476"
   - name: Ambroise Peugeot
     description: Post-Doc
     email: nzoebvfr.crhtrbg@cbylgrpuavdhr.rqh
     decode: true
-    phone:
+    phone: "+33 16933 5298"
   - name: Joël Griesmar
     description: Post-Doc
-    email:
-    phone:
+    email: wbry.tevrfzne@cbylgrpuavdhr.rqh
+    decode: true
+    phone: "+33 16933 4743"
   - name: Everton Arrighi
     description: Research Engineer
     email: riregba.neevtuv@cbylgrpuavdhr.rqh
     decode: true
-    phone: "+33169334743"
+    phone: "+33 16933 4743"
   - name: Samy Annabi
     description: PhD Student
-    email:
-    phone:
+    email: fnzl.naanov@cbylgrpuavdhr.rqh
+    decode: true
+    phone: "+33 16933 4691"
   - name: Hannes Riechert
     description: PhD Student
-    email:
-    phone:
+    email: unaarf.evrpureg@cbylgrpuavdhr.rqh
+    decode: true
+    phone: "+33 16933 4743"
     orcid: 0000-0002-1111-3962
 
 groupphoto:
@@ -105,4 +109,4 @@ With the financial support of:
   - the Ecole Polytechnique (Young Team Fellowship QCMX)
   - the Agence Nationale de la Recherche ([Grant ANR-18-CE47-0012 JCJC QIPHSC](https://anr.fr/Project-ANR-18-CE47-0012))
   - the [DIM SIRTEQ Ile-de-France](https://www.sirteq.org/en/SIRTEQ) (Grant ONQC)
-  - the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme ([grant agreement No. 947707](https://cordis.europa.eu/project/id/947707))).
+  - the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme ([grant agreement No. 947707](https://cordis.europa.eu/project/id/947707)).

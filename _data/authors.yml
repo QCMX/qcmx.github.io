@@ -16,3 +16,26 @@ Landry Bretheau:
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: https://orcid.org/0000-0001-5628-934X
+  address: "PMC, Ecole&nbsp;Polytechnique, 91128&nbsp;Palaiseau, France"
+  office: "Building&nbsp;83<br>Office&nbsp;83-20-20"
+
+Jean-Damien Pillet:
+  name        : "Jean-Damien Pillet"
+  bio         :
+  avatar      : "/assets/images/avatar-jd.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "znvygb:wrna-qnzvra.cvyyrg@cbylgrpuavdhr.rqh"
+      decode: true
+    - label: "Phone"
+      icon: "fas fa-fw fa-phone"
+      url: "tel:+33169334476"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/jean-damien-pillet-4b9919198/
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: https://orcid.org/0000-0002-2766-8049
+  address: "PMC, Ecole&nbsp;Polytechnique, 91128&nbsp;Palaiseau, France"
+  office: "Building&nbsp;83<br>Office&nbsp;83-20-20"
