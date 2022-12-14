@@ -1,0 +1,15 @@
+{% if include.id %}
+  {% assign news = page[include.id] %}
+{% else %}
+  {% assign news = page.news %}
+{% endif %}
+
+<ul class="foldoutnews">
+{% for item in news.items %}
+{% assign itemindex = {{forloop.index}} %}
+<li {% if itemindex > 5 %}style="display: none"{% endif %}>{{ item }}</li>
+{% endfor %}
+</ul>
+
+<a class="btn btn--primary foldoutnewsmore">All News...</a>
+{: style="text-align: center;"}

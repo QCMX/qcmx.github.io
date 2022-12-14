@@ -2,13 +2,16 @@ This webpage is hosted via GitHub Pages.
 
 To do:
 
-  * Timeline responsive
-  * Accent color
-  * Link to PMC & Ecole Polytechnique.
   * Remove Landry and JD from navigation?
   * GDPR, legal notice
   * Page descriptions for SEO
   * DNS
+  * favicon
+
+Maybe todos:
+
+  * Timeline responsive
+  * Accent color
 
 # Editing
 ## GitHub workflow

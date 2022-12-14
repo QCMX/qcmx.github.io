@@ -77,10 +77,15 @@ teamgrid:
     phone: "+33 16933 4743"
     orcid: 0000-0002-1111-3962
 
-groupphoto:
-  - image_path: /assets/images/qcmx_team_2021-nov.jpg
-    alt: "Group photo of team members standing next to each other on a terrace."
-    excerpt: "We are always looking for highly motivated PhD students or postdocs. Please contact us by email."
+news:
+  items:
+    - "Feb 2022 : Welcome to Everton who joined the group as a Research Engineer."
+    - "Jan 2022 : Hannes built 2 fancy RF sample-holders called JAWS. Thanks Marius and the ENS team."
+    - "Nov 2021 : We’ve installed our new BlueFors dilution cryostat, with vector magnet (3/1/1 Tesla) and bottom loader. Base temp = 8 mK !!! Thanks Mathias & Vojko."
+    - "Nov 2021 : We’ve just installed our carbon nanotube furnace with base temperature of 1000 °C !"
+    - "Nov 2021 : We measured our first Rabi oscillations : T1 = 40 µs & T2 = 20 µs. Thanks Manu for the hero qubit."
+    - "Oct 2021 : Congrats to Joël & JD for their paper published in [Physical Review Research](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.043078) on a high-sensitivity broad-band Josephson junction spectrometer."
+    - "Oct 2021 : We’ve received our Quantum Orchestration Platform (OPX) from Quantum Machines. Let’s do real-time control!"
 ---
 
 {% include feature_row id="intro" type="left" %}
@@ -104,7 +109,7 @@ We are always looking for highly motivated PhD students or postdocs. Please cont
 
 # News
 
-- Feb 2022: Welcome to Everton who joined the group as a Research Engineer.
+{% include fold-out-news id="news" %}
 
 # Funding
 
