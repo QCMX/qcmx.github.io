@@ -65,6 +65,11 @@ teamgrid:
     email: fnzl.naanov@cbylgrpuavdhr.rqh
     decode: true
     phone: "+33 16933 4691"
+  - name: Solenn Cances
+    description: PhD Student
+    email: fbyraa.pnaprf@cbylgrpuavdhr.rqh
+    decode: true
+    phone: "+33 16933 4691"
   - name: Hannes Riechert
     description: PhD Student
     email: unaarf.evrpureg@cbylgrpuavdhr.rqh
@@ -85,10 +90,14 @@ groupphoto:
 {% include feature_row id="research" %}
 
 # Team
+![Group photo of team members in the mountains of Aussois in Nov 2022.]({{ site.url }}{{ site.baseurl }}/assets/images/qcmx_team_2022-nov-widecrop.jpg)
 
 {% include teamgrid %}
 
-{% include feature_row id="groupphoto" type="left" %}
+We are always looking for highly motivated PhD students or postdocs. Please contact us by email.
+{: style="text-align: center;"}
+
+<!--{% include feature_row id="groupphoto" type="left" %}-->
 
 <!--<img src="{{ site.url }}{{ site.baseurl }}/assets/images/qcmx_team_2021-nov.jpg" alt="Group photo of team members standing next to each other on a terrace." style="width:200px" class="align-left"> -->
 
