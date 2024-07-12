@@ -34,14 +34,14 @@ research:
 
 teamgrid:
   - name: Landry Bretheau
-    url: /bretheau/
+    url: https://pmc.polytechnique.fr/spip.php?article1255
     description: Professor
     email: ynaqel.oergurnh@cbylgrpuavdhr.rqh
     decode: true
     phone: "+33 16933 4718"
     orcid: 0000-0001-5628-934X
   - name: Jean-Damien Pillet
-    url: /pillet
+    url: https://pmc.polytechnique.fr/spip.php?article1280
     description: Professor
     email: wrna-qnzvra.cvyyrg@cbylgrpuavdhr.rqh
     decode: true
@@ -55,6 +55,7 @@ teamgrid:
     phone: "+33 16933 4743"
     orcid: 0000-0002-0586-6757
   - name: Everton Arrighi
+  - url: https://pmc.polytechnique.fr/spip.php?article1369
     description: Research Engineer
     email: riregba.neevtuv@cbylgrpuavdhr.rqh
     decode: true
