@@ -35,31 +35,35 @@ research:
 teamgrid:
   - name: Landry Bretheau
     url: /bretheau/
-    description: Faculty
+    description: Professor
     email: ynaqel.oergurnh@cbylgrpuavdhr.rqh
     decode: true
     phone: "+33 16933 4718"
+    orcid: 0000-0001-5628-934X
   - name: Jean-Damien Pillet
     url: /pillet
-    description: Faculty
+    description: Professor
     email: wrna-qnzvra.cvyyrg@cbylgrpuavdhr.rqh
     decode: true
     phone: "+33 16933 4476"
-  - name: Ambroise Peugeot
-    description: Post-Doc
-    email: nzoebvfr.crhtrbg@cbylgrpuavdhr.rqh
-    decode: true
-    phone: "+33 16933 5298"
+    orcid: 0000-0002-2766-8049
   - name: Joël Griesmar
-    description: Post-Doc
+    url: https://pmc.polytechnique.fr/spip.php?article1332
+    description: Assistant Professor
     email: wbry.tevrfzne@cbylgrpuavdhr.rqh
     decode: true
     phone: "+33 16933 4743"
+    orcid: 0000-0002-0586-6757
   - name: Everton Arrighi
     description: Research Engineer
     email: riregba.neevtuv@cbylgrpuavdhr.rqh
     decode: true
     phone: "+33 16933 4743"
+  - name: Hadrien Duprez
+    description: Post-Doc
+    email: 
+    decode: true
+    phone: "+33 16933 4758"
   - name: Samy Annabi
     description: PhD Student
     email: fnzl.naanov@cbylgrpuavdhr.rqh
@@ -71,11 +75,17 @@ teamgrid:
     decode: true
     phone: "+33 16933 4743"
     orcid: 0000-0002-1111-3962
+  - name: Maxime Hantute
+    description: PhD Student
+    email: 
+    decode: true
+    phone: "+33 16933 4759"
 
 groupphoto:
   - image_path: /assets/images/qcmx_team_2021-nov.jpg
     alt: "Group photo of team members standing next to each other on a terrace."
     excerpt: "We are always looking for highly motivated PhD students or postdocs. Please contact us by email."
+
 ---
 
 {% include feature_row id="intro" type="left" %}
@@ -92,6 +102,8 @@ groupphoto:
 
 <!--<img src="{{ site.url }}{{ site.baseurl }}/assets/images/qcmx_team_2021-nov.jpg" alt="Group photo of team members standing next to each other on a terrace." style="width:200px" class="align-left"> -->
 
+# Alumni
+- Ambroise Peugeot, Post-Doc (2020-2023), now at ENS Lyon
 
 # News
 
