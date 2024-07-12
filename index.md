@@ -83,8 +83,8 @@ teamgrid:
     phone: "+33 16933 4759"
 
 groupphoto:
-  - image_path: /assets/images/qcmx_team_2021-nov.jpg
-    alt: "Group photo of team members standing next to each other on a terrace."
+  - image_path: /assets/images/group_photo_2024_jul.jpg
+    alt: "Group photo of team members standing next to each other in the lab."
     excerpt: "We are always looking for highly motivated PhD students or postdocs. Please contact us by email."
 
 ---
