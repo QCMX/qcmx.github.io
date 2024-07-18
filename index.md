@@ -55,7 +55,7 @@ teamgrid:
     phone: "+33 16933 4743"
     orcid: 0000-0002-0586-6757
   - name: Everton Arrighi
-  - url: https://pmc.polytechnique.fr/spip.php?article1369
+    url: https://pmc.polytechnique.fr/spip.php?article1369
     description: Research Engineer
     email: riregba.neevtuv@cbylgrpuavdhr.rqh
     decode: true
@@ -99,7 +99,7 @@ groupphoto:
 
 {% include teamgrid %}
 
-{% include feature_row id="groupphoto" type="left" %}
+{% include feature_row id="groupphoto" type="center" %}
 
 <!--<img src="{{ site.url }}{{ site.baseurl }}/assets/images/qcmx_team_2021-nov.jpg" alt="Group photo of team members standing next to each other on a terrace." style="width:200px" class="align-left"> -->
 
