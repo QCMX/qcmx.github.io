@@ -4,7 +4,6 @@ permalink: /publications/
 title: List of publications
 ---
 
-List of publications
 
 # Articles
 
