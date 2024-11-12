@@ -4,7 +4,7 @@ permalink: /news/
 title: News
 ---
 
-
+---
 ## 2024
 - Oct 2024: First experimental article by QCMX, published in [Physical Review Applied](https://journals.aps.org/prapplied/): "Two-tone spectroscopy of high-frequency quantum circuits with a Josephson emitter!"
 - Sep 2024: Congrats to JD who was appointed Professor.

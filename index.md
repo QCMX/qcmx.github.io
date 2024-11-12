@@ -6,7 +6,7 @@ title: QCMX lab
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/Pillet-thesis-Fig-3-16.png
+  overlay_image: /assets/images/alotofdiamonds.png
   caption:
 excerpt: # Shown in header overlay
 
@@ -110,6 +110,7 @@ groupphoto:
 
 # News
 {% include_relative _pages/news.md %}
+
 
 # Funding
 
