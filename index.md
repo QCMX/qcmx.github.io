@@ -25,7 +25,7 @@ research:
     alt: "Hybrid circuits"
     title: "Hybrid superconducting circuits"
     excerpt: "Design, fabrication and measurement of hybrid superconducting circuits."
-    url: "#test-link"
+    url: "/research/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/CoherentManipulation.png
