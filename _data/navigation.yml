@@ -5,3 +5,5 @@ main:
     url: /news/
   - title: "Publications"
     url: /publications/
+  - title: "Getting here"
+    url: /contact/
