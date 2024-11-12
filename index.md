@@ -87,6 +87,7 @@ groupphoto:
     alt: "Group photo of team members standing next to each other in the lab."
     excerpt: "We are always looking for highly motivated PhD students or postdocs. Please contact us by email."
 
+
 ---
 
 {% include feature_row id="intro" type="left" %}
