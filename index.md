@@ -18,8 +18,8 @@ intro:
 research:
   - image_path: /assets/images/CNTtransfer.png
     alt: "CNT transfer"
-    title: "Carbon nanotube"
-    excerpt: "Growth and transfer of nanotube carbons."
+    title: "Carbon nanotubes"
+    excerpt: "Growth and transfer of carbon nanotubes."
   - image_path: /assets/images/HybridCircuit.png
     image_caption: #"Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Hybrid circuits"
@@ -31,6 +31,11 @@ research:
   - image_path: /assets/images/CoherentManipulation.png
     title: "Quantum control of hybrid circuits "
     excerpt: "Quantum control of superconductor-nanotube hybrid circuits ."
+
+button:
+  - url: "/research/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 
 teamgrid:
   - name: Landry Bretheau
@@ -85,7 +90,7 @@ teamgrid:
 groupphoto:
   - image_path: /assets/images/group_photo_2024_jul.jpg
     alt: "Group photo of team members standing next to each other in the lab."
-    excerpt: "We are always looking for highly motivated PhD students or postdocs. Please contact us by email."
+    excerpt: "We are always looking for highly motivated PhD students or postdocs.\ Please contact us by email."
 
 
 ---
@@ -95,6 +100,7 @@ groupphoto:
 # Research
 
 {% include feature_row id="research" %}
+{% include feature_row id="button" type="center"%}
 
 # Team
 
