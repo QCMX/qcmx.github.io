@@ -98,17 +98,18 @@ groupphoto:
 
 # Team
 
+{% include feature_row id="groupphoto" type="center" %}
+
 {% include teamgrid %}
 
-{% include feature_row id="groupphoto" type="center" %}
 
 <!--<img src="{{ site.url }}{{ site.baseurl }}/assets/images/qcmx_team_2021-nov.jpg" alt="Group photo of team members standing next to each other on a terrace." style="width:200px" class="align-left"> -->
 
 # Alumni
-{% include_relative alumni.md %}
+{% include_relative _pages/alumni.md %}
 
 # News
-{% include_relative news.md %}
+{% include_relative _pages/news.md %}
 
 # Funding
 
