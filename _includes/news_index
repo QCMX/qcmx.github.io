@@ -1,6 +1,0 @@
-{% capture news_content %}
-  {% include_relative _pages/news.md %}
-{% endcapture %}
-<div class="news-content">
-  {{ news_content | markdownify }}
-</div>
