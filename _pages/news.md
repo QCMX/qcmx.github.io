@@ -4,7 +4,6 @@ permalink: /news/
 title: News
 ---
 
----
 ## 2024
 - Oct 2024: First experimental article by QCMX, published in [Physical Review Applied](https://journals.aps.org/prapplied/): "Two-tone spectroscopy of high-frequency quantum circuits with a Josephson emitter!"
 - Sep 2024: Congrats to JD who was appointed Professor.
@@ -17,7 +16,7 @@ title: News
 - Oct 2023: Congrats to JD who just defended his Accreditation to Supervise Research (HDR).
 - Oct 2023: Welcome to Maxime & Hadrien who joined the group as PhD Student and Postdoc.
 - Sep 2023: We were awarded a grant by the French Quantum Plan ([PEPR RobustSuperQ)](https://www.robustsuperq.fr/)).
-- Sep 2023: New paper by QCMX published in [Physical Review Applied](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033199) on the Josephson Diode Effect (aka JD effect) in an Andreev molecule.
+- Sep 2023: New paper by QCMX published in [Physical Review Research](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033199) on the Josephson Diode Effect (aka JD effect) in an Andreev molecule.
 - Sep 2023: Landry was interviewed by [Polytechnique Insights](https://www.polytechnique-insights.com/en/columns/science/quantum-computing-15-minutes-to-understand-everything/%20Video:%20https:/www.youtube.com/watch/?v=HZoCqyFyH_c) together with Loïc Henriet from Pasqal on Quantum Computing. Check out the [video](https://www.youtube.com/watch?v=HZoCqyFyH_c).
 - Aug 2023: Nice measurements of 0-pi quantum phase transitions in a carbon nanotube-based Josephson junction, with fourfold periodicity revealing spin and valley degeneracy.
 - May 2023: Great tribute conference for Fabien Portier at SPEC, CEA. RIP.

@@ -30,7 +30,7 @@ research:
     btn_class: "btn--primary"
   - image_path: /assets/images/CoherentManipulation.png
     title: "Quantum control of hybrid circuits "
-    excerpt: "Quantum Control of Superconductor-Nanotube Hybrid Circuits ."
+    excerpt: "Quantum control of superconductor-nanotube hybrid circuits ."
 
 teamgrid:
   - name: Landry Bretheau
