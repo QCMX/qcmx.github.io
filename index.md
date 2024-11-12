@@ -107,7 +107,7 @@ groupphoto:
 - Ambroise Peugeot, Post-Doc (2020-2023), now at ENS Lyon
 
 # News
-
+{% include_relative news.md %}
 - Feb 2022: Welcome to Everton who joined the group as a Research Engineer.
 
 # Funding
@@ -119,10 +119,10 @@ groupphoto:
 
 With the financial support of:
 
-  - the Ecole Polytechnique (Young Team Fellowship QCMX)
-  - the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme ([grant agreement No. 947707](https://cordis.europa.eu/project/id/947707))
-  - the Agence Nationale de la Recherche ([Grant ANR-18-CE47-0012 JCJC QIPHSC](https://anr.fr/Project-ANR-18-CE47-0012), [Grant ANR-20-CE47-0003 JCJC NEWS](https://anr.fr/Projet-ANR-20-CE47-0003), [Grant ANR CoPinJJ](https://anr.fr))
-  - the French Quantum Plan ([PEPR RobustSuperQ](https://www.robustsuperq.fr/))
-  - the Fondation de l'Ecole Polytechnique (unrestricted donation)
+  - the Ecole Polytechnique (Young Team Fellowship QCMX),
+  - the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme ([grant agreement No. 947707](https://cordis.europa.eu/project/id/947707)),
+  - the Agence Nationale de la Recherche ([Grant ANR-18-CE47-0012 JCJC QIPHSC](https://anr.fr/Project-ANR-18-CE47-0012), [Grant ANR-20-CE47-0003 JCJC NEWS](https://anr.fr/Projet-ANR-20-CE47-0003), [Grant ANR CoPinJJ](https://anr.fr)),
+  - the French Quantum Plan ([PEPR RobustSuperQ](https://www.robustsuperq.fr/)),
+  - the Fondation de l'Ecole Polytechnique (unrestricted donation),
   - the [DIM SIRTEQ Ile-de-France](https://www.sirteq.org/en/SIRTEQ) (Grant ONQC).
   
