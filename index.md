@@ -104,11 +104,10 @@ groupphoto:
 <!--<img src="{{ site.url }}{{ site.baseurl }}/assets/images/qcmx_team_2021-nov.jpg" alt="Group photo of team members standing next to each other on a terrace." style="width:200px" class="align-left"> -->
 
 # Alumni
-- Ambroise Peugeot, Post-Doc (2020-2023), now at ENS Lyon
+{% include_relative alumni.md %}
 
 # News
 {% include_relative news.md %}
-- Feb 2022: Welcome to Everton who joined the group as a Research Engineer.
 
 # Funding
 

@@ -1,0 +1,8 @@
+- Ambroise Peugeot, Post-Doc (2020-2023), now at [ENS Lyon](https://www.ens-lyon.fr/PHYSIQUE/presentation/annuaire/peugeot-ambroise).
+- Pierre-Eugène Coulon: Research Engineer (2018-2020).
+- Interns: 
+    - Solenn Cances (2022, X / ETH Zurich M2).
+    - Baptiste Carles (2022, ENS Paris-Saclay M1).
+    - Etienne Bargel (2020, ENS Paris-Saclay L3).
+    - Elie De Seze (2020, ENS Paris-Saclay L3).
+    - Luke Pilache (2020, X-Bachelor L2).
