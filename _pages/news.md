@@ -9,6 +9,7 @@ title: News
 - Sep 2024: Congrats to JD who was appointed Professor.
 - June 2024: Congrats to Joël who was awarded a young researcher grant from ANR.
 - Feb 2024: Congrats to Joël for his paper published in [Physical Review X](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.011011) on the implementation of a microwave photon-number amplifier using a dc-Biased Josephson junction.
+
 ## 2023
 - Dec 2023: We just measured quantum coherence of carbon nanotube-based gatemon qubit! Exciting.
 - Dec 2023: Landry was invited by President Macron at the Elysée. Totally unexpected and totally awesome!
@@ -23,6 +24,7 @@ title: News
 - Mar 2023: Landry & JD were interviewed by [Rayon X](https://www.youtube.com/watch?v=PxxnyOoBBXo), who puts the spotlight on scientists.
 - Mar 2023: Farewell to Ambroise who just got a super postdoc position at ENS Lyon. Have fun with DC-pumped cat qubits!
 - Feb 2023: We measured large supercurrents in a carbon nanotube, up to 8 nA. And some fancy non-local Josephson effect.
+
 ## 2022
 - Oct 2022: We measured a gate-dependent supercurrent in a carbon nanotube! Isw = 200 pA.
 - Sep 2022: Welcome to Joël who joined the group as an Assistant Professor!
@@ -31,6 +33,7 @@ title: News
 - Feb 2022: Joël published a nice popularization article in PMC’s newsletter on how a dilution fridge works.
 - Feb 2022: Welcome to Everton who joined the group as a Research Engineer.
 - Jan 2022: Hannes built 2 fancy RF sample-holders called JAWS. Thanks Marius and the ENS team.
+
 ## 2021
 - Nov 2021: We’ve installed our new BlueFors dilution cryostat, with vector magnet (3/1/1 T) and bottom loader. Base temp = 8 mK !!! Thanks Mathias & Vojko.
 - Nov 2021: We’ve just installed our carbon nanotube furnace. Base temp = 1000 °C !
@@ -50,6 +53,7 @@ title: News
 - May 2021: Welcome to Samy who joined the group as a PhD Student.
 - Mar 2021: We spotted our first individual carbon nanotube!
 - Mar 2021: Landry was interviewed by [Polytechnique Insights](https://www.polytechnique-insights.com/en/columns/science/states-and-businesses-the-race-for-quantum-computers/) on the "Plan Quantique"
+
 ## 2020
 - Nov 2020: Congrats to Ambroise! He was awarded the 2020 PhOM PhD Award, for his work on "Quantum microwave sources from inelastic Cooper pair tunneling"
 - Oct 2020: Welcome to Ambroise who joined the group as a Post-Doctoral associate.
@@ -61,6 +65,7 @@ title: News
 - Jun 2020: Welcome to Etienne, Elie & Luke who joined the group as summer interns.
 - Mar 2020: Congrats to Landry who was awarded the [2020 Nicholas Kurti Science Prize](https://nanoscience.oxinst.com/about-us/science-prizes/nicholas-kurti/announcing-winners-of-the-2020-nicholas-kurti-science-prize-for-europe), together with Rebeca Ribeiro from CNRS C2N → [X-News](https://www.polytechnique.edu/en/content/landry-bretheau-winner-2020-nicholas-kurti-science-prize)
 - Feb 2020: Tons of room-T µwave components have arrived.
+
 ## 2019
 - Nov 2019: Congrats to JD for his nice [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.216804%7D%20paper%20that%20reports%20how%20a%20carbon%20nanotube%20can%20be%20used%20to%20guide%20electrons%20in%20graphene%20%E2%86%92%20[Physics-%3Ehttps://physics.aps.org/articles/v12/132), [Science](https://www.science.org/doi/10.1126/science.2019.366.6472.twil), [MRS Bulletin](https://www.cambridge.org/core/journals/mrs-bulletin/news/carbon-nanotube-induces-1d-electron-waveguide-in-graphene) & [X-News](https://www.polytechnique.edu/fr/content/guide-quantique-pour-electrons)
 - Sep 2019: New DC electronic instruments (oscillos, sources, DAC, amp).
@@ -72,11 +77,13 @@ title: News
 - Mar 2019: After 3 months, electricity, masonry and plumbing works are finished! Our lab is ready to get the fridge. And we’ve just received our expresso machine !
 - Jan 2019: New RF equipments from Rohde & Schwarz (1 VNA, 1 PSA and 3 MSG).
 - Jan 2019: Congrats to Landry for his paper published in [Nature Nanotechnology](https://www.nature.com/articles/s41565-018-0329-2) on a graphene-based superconducting qubit → [spotlight](https://www.nature.com/articles/s41565-018-0329-2/metrics) by [Nature Nano](https://www.nature.com/articles/s41565-019-0369-2) & [MIT News](https://news.mit.edu/2018/physicists-graphene-qubits-1231)
+
 ## 2018
 - Nov 2018: New paper by Landry & co published in [Science](https://www.science.org/doi/10.1126/science.aar4642) that shows gate-controllable superconductivity in monolayer WTe2 → [spotlight](https://www.altmetric.com/details/48262851/news) by [MIT News](https://news.mit.edu/2018/mit-research-first-2-d-material-topological-insulator-superconductor-1031)
 - Sep 2018: We’ve received a 40L cylinder of He3. Thanks to Michel and the DOE :)
 - Sep 2018: New paper by Landry & co in [PRB](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.121411) that reports tunneling spectroscopy measurements of graphene proximitized by large-gap superconductors.
 - Jul 2018: Congrats to Landry who was awarded a young researcher grant from [ANR](https://anr.fr/Project-ANR-18-CE47-0012).
+
 ## 2017
 - Dec 2017: The QCMX-lab was awarded a grant from [SIRTEQ](http://www.sirteq.org/).
 - Sep 2017: We’ve been hired as Assistant Professors (with Startup Grant and Lab Space). Let’s build from scratch a new lab. Long-live QCMX!

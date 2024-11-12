@@ -27,7 +27,7 @@ research:
     excerpt: "Design, fabrication and measurement of hybrid superconducting circuits."
   - image_path: /assets/images/CoherentManipulation.png
     title: "Quantum control of hybrid circuits "
-    excerpt: "Quantum control of superconductor-nanotube hybrid circuits ."
+    excerpt: "Quantum control of superconductor-nanotube hybrid circuits."
 
 button:
   - url: "/research/"
@@ -87,7 +87,8 @@ teamgrid:
 groupphoto:
   - image_path: /assets/images/group_photo_2024_jul.jpg
     alt: "Group photo of team members standing next to each other in the lab."
-    excerpt: "We are always looking for highly motivated PhD students or postdocs.\ Please contact us by email."
+    excerpt: "We are always looking for highly motivated PhD students or postdocs.\
+    Please contact us by email."
 
 
 ---
@@ -113,6 +114,8 @@ groupphoto:
 
 # News
 {% include_relative _pages/news.md %}
+{% include news_index %}
+
 
 
 # Funding
