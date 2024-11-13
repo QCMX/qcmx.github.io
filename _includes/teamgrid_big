@@ -38,8 +38,7 @@
         </div>
       </div>
     </div>
-    <br
+    <br>
   {% endfor %}
-
 </div>
 </a>
