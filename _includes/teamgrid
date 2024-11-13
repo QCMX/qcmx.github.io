@@ -1,7 +1,7 @@
-{% if include.id %}
-  {% assign teamgrid = page[include.id] %}
+{% if include.who == "all" %}
+  {% assign teamgrid = site.data.team %}
 {% else %}
-  {% assign teamgrid = page.teamgrid %}
+  {% assign teamgrid = site.data.team | where: "group", include.who %}
 {% endif %}
 
 <div class="teamgrid">
@@ -9,6 +9,17 @@
   {% for f in teamgrid %}
     <div class="teamgrid__item">
       <div class="teamgrid__item-body">
+        {% if include.photo == "true" %}
+          {% if f.photo %}
+          <div class="teamgrid__item-image">
+            <img src="{{ f.photo | relative_url }}" alt="{{ f.name }}" style="height: 250px" />
+          </div>
+          {% else %}
+            <div class="teamgrid__item-image">
+              <img src="{{ site.baseurl }}/assets/images/team/nopic.png" alt="{{ f.name }}" style="height: 250px" />
+            </div>
+          {% endif %}
+        {% endif %}
         {% if f.url %}
           <div class="name"><a href="{{ f.url | relative_url }}">{{ f.name }}</a></div>
         {% else %}

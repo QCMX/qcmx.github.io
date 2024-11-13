@@ -1,0 +1,67 @@
+- name: Landry Bretheau
+  url: https://pmc.polytechnique.fr/spip.php?article1255
+  description: Professor
+  group: "permanent"
+  email: ynaqel.oergurnh@cbylgrpuavdhr.rqh
+  decode: true
+  phone: "+33 16933 4718"
+  orcid: 0000-0001-5628-934X
+  photo: /assets/images/team/avatar-landry.png
+- name: Jean-Damien Pillet
+  url: https://pmc.polytechnique.fr/spip.php?article1280
+  description: Professor
+  group: "permanent"
+  email: wrna-qnzvra.cvyyrg@cbylgrpuavdhr.rqh
+  decode: true
+  phone: "+33 16933 4476"
+  orcid: 0000-0002-2766-8049
+  photo: /assets/images/team/avatar-jd.png
+- name: Joël Griesmar
+  url: https://pmc.polytechnique.fr/spip.php?article1332
+  description: Assistant Professor
+  group: "permanent"
+  email: wbry.tevrfzne@cbylgrpuavdhr.rqh
+  decode: true
+  phone: "+33 16933 4743"
+  orcid: 0000-0002-0586-6757
+  photo: /assets/images/team/jg.png
+- name: Everton Arrighi
+  url: https://pmc.polytechnique.fr/spip.php?article1369
+  description: Research Engineer
+  group: "permanent"
+  email: riregba.neevtuv@cbylgrpuavdhr.rqh
+  decode: true
+  phone: "+33 16933 4743"
+  photo: /assets/images/team/everton.png
+- name: Hadrien Duprez
+  url: https://pmc.polytechnique.fr/spip.php?article1494&lang=en
+  description: Post-Doc
+  group: "post-doc"
+  email: unqevra.qhcerm@cbylgrpuavdhr.rqh
+  decode: true
+  phone: "+33 16933 4758"
+- name: Samy Annabi
+  url: https://pmc.polytechnique.fr/spip.php?article1254
+  description: PhD Student
+  group: "phd"
+  email: fnzl.naanov@cbylgrpuavdhr.rqh
+  decode: true
+  phone: "+33 16933 4691"
+  photo: /assets/images/team/samy.png
+- name: Hannes Riechert
+  url: https://pmc.polytechnique.fr/spip.php?article1367&lang=en
+  description: PhD Student
+  group: "phd"
+  email: unaarf.evrpureg@cbylgrpuavdhr.rqh
+  decode: true
+  phone: "+33 16933 4743"
+  orcid: 0000-0002-1111-3962
+  photo: /assets/images/team/hannes.png
+- name: Maxime Hantute
+  url: https://pmc.polytechnique.fr/spip.php?article1478
+  description: PhD Student
+  group: "phd"
+  email: znkvzr.unaghgr@cbylgrpuavdhr.rqh
+  decode: true
+  phone: "+33 16933 4759"
+  photo: /assets/images/team/maxime.png
