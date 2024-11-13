@@ -7,7 +7,7 @@
       <div class="teamgrid__item-body">
         {% if f.photo %}
           <div class="teamgrid__item-image">
-            <img src="{{ f.photo | relative_url }}" alt="{{ f.name }}" style="height: 250px;" />
+            <img src="{{ f.photo | relative_url }}" alt="{{ f.name }}" style="height: 250px" />
           </div>
         {% endif %}
         {% if f.url %}
@@ -37,8 +37,8 @@
           {% endif %}
         </div>
       </div>
+      <br>
     </div>
-    <br>
   {% endfor %}
 </div>
 </a>
