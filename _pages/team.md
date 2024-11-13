@@ -8,5 +8,10 @@ title: Team
 
 {% assign team = site.data.team %}
 
+# Team members
 
 {% include teamgrid photo="true"%}
+
+
+# Alumni
+{% include_relative _pages/alumni.md %}
