@@ -19,4 +19,11 @@
         var code = obj.innerHTML;
         obj.innerHTML = rot(code);
     });
+
+    $('.foldoutnewsmore').each(function(idx, obj) {
+        $(obj).click(function() {
+            $(this).parent().prev().children().css('display', 'list-item');
+            $(this).parent().css('display', 'none');
+        });
+    });
 })(jQuery);

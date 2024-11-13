@@ -39,12 +39,6 @@ button_team:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-groupphoto:
-  - image_path: /assets/images/group_photo_2024_jul.jpg
-    alt: "Group photo of team members standing next to each other in the lab."
-    excerpt: "We are always looking for highly motivated PhD students or postdocs.\ 
-    Please contact us by email."
-
 ---
 
 {% include feature_row id="intro" type="left" %}
@@ -55,12 +49,14 @@ groupphoto:
 {% include feature_row id="button_research" type="center"%}
 
 # Team
+![Group photo of team members in the mountains of Aussois in Nov 2022.]({{ site.url }}{{ site.baseurl }}/assets/images/qcmx_team_2022-nov-widecrop.jpg)
 
 {% include feature_row id="groupphoto" type="center" %}
 
 {% include teamgrid photo="false" who="all" %}
 
 {% include feature_row id="button_team" type="center"%}
+
 
 
 <!--<img src="{{ site.url }}{{ site.baseurl }}/assets/images/qcmx_team_2021-nov.jpg" alt="Group photo of team members standing next to each other on a terrace." style="width:200px" class="align-left"> -->
