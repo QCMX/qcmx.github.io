@@ -1,0 +1,43 @@
+{% assign teamgrid = site.data.teamgrid %}
+
+<div class="teamgrid">
+
+  {% for f in teamgrid %}
+    <div class="teamgrid__item">
+      <div class="teamgrid__item-body">
+        {% if f.photo %}
+          <div class="teamgrid__item-image">
+            <img src="{{ f.photo | relative_url }}" alt="{{ f.name }}" />
+          </div>
+        {% endif %}
+        {% if f.url %}
+          <div class="name"><a href="{{ f.url | relative_url }}">{{ f.name }}</a></div>
+        {% else %}
+          <div class="name">{{ f.name }}</div>
+        {% endif %}
+
+        <div class="description">{{ f.description }}</div>
+
+        <div class="team__urls">
+          {% if f.email %}
+              <a href="mailto:{{ f.email }}" class="u-email {% if f.decode %}decode-href{% endif %}">
+                <i class="fas fa-fw fa-envelope" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</span>
+              </a>
+          {% endif %}
+          {% if f.phone %}
+            <a href="tel:{{ f.phone }}" class="u-email">
+              <meta itemprop="phone" content="{{ f.phone }}" />
+              <i class="fas fa-fw fa-phone" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].phone_label | default: "Phone" }}</span>
+            </a>
+          {% endif %}
+          {% if f.orcid %}
+            <a href="https://orcid.org/{{ f.orcid }}" class="u-email">
+              <i class="fab fa-fw fa-orcid" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].phone_label | default: "ORCID" }}</span>
+            </a>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+
+</div>

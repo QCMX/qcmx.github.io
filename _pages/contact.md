@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /contact/
-title: Getting here
+title: Getting there
 ---
 
 ## Address:

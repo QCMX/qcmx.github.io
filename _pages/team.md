@@ -5,4 +5,4 @@ title: Team
 ---
 
 
-{% include teamgrid %}
+{% include teamgrid_big %}
