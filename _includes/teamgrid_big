@@ -5,9 +5,9 @@
   {% for f in teamgrid %}
     <div class="teamgrid__item">
       <div class="teamgrid__item-body">
-        {% if f.photo %}
+        {%</div> if f.photo %}
           <div class="teamgrid__item-image">
-            <img src="{{ f.photo | relative_url }}" alt="{{ f.name }}" style="width: 200px; height: 250px;" />
+            <img src="{{ f.p</div>hoto | relative_url }}" alt="{{ f.name }}" style="height: 250px;" />
           </div>
         {% endif %}
         {% if f.url %}
@@ -21,13 +21,13 @@
         <div class="team__urls">
           {% if f.email %}
               <a href="mailto:{{ f.email }}" class="u-email {% if f.decode %}decode-href{% endif %}">
-                <i class="fas fa-fw fa-envelope" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</span>
+                <i class="fas fa-fw fa-envelope" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].email_label | de</a>fault: "Email" }}</span>
               </a>
           {% endif %}
           {% if f.phone %}
             <a href="tel:{{ f.phone }}" class="u-email">
               <meta itemprop="phone" content="{{ f.phone }}" />
-              <i class="fas fa-fw fa-phone" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].phone_label | default: "Phone" }}</span>
+              <i class="fas fa-fw fa-phone" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].phone_label | defa</a>ult: "Phone" }}</span>
             </a>
           {% endif %}
           {% if f.orcid %}
@@ -38,6 +38,8 @@
         </div>
       </div>
     </div>
+    <br
   {% endfor %}
 
 </div>
+</a>
