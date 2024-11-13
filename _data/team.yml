@@ -1,6 +1,7 @@
 - name: Landry Bretheau
   url: https://pmc.polytechnique.fr/spip.php?article1255
   description: Professor
+  group: "permament"
   email: ynaqel.oergurnh@cbylgrpuavdhr.rqh
   decode: true
   phone: "+33 16933 4718"
@@ -9,6 +10,7 @@
 - name: Jean-Damien Pillet
   url: https://pmc.polytechnique.fr/spip.php?article1280
   description: Professor
+  group: "permament"
   email: wrna-qnzvra.cvyyrg@cbylgrpuavdhr.rqh
   decode: true
   phone: "+33 16933 4476"
@@ -17,6 +19,7 @@
 - name: Joël Griesmar
   url: https://pmc.polytechnique.fr/spip.php?article1332
   description: Assistant Professor
+  group: "permament"
   email: wbry.tevrfzne@cbylgrpuavdhr.rqh
   decode: true
   phone: "+33 16933 4743"
@@ -25,23 +28,27 @@
 - name: Everton Arrighi
   url: https://pmc.polytechnique.fr/spip.php?article1369
   description: Research Engineer
+  group: "permament"
   email: riregba.neevtuv@cbylgrpuavdhr.rqh
   decode: true
   phone: "+33 16933 4743"
   photo: /assets/images/team/everton.png
 - name: Hadrien Duprez
   description: Post-Doc
+  group: "post-doc"
   email: 
   decode: true
   phone: "+33 16933 4758"
 - name: Samy Annabi
   description: PhD Student
+  group: "phd"
   email: fnzl.naanov@cbylgrpuavdhr.rqh
   decode: true
   phone: "+33 16933 4691"
   photo: /assets/images/team/samy.png
 - name: Hannes Riechert
   description: PhD Student
+  group: "phd"
   email: unaarf.evrpureg@cbylgrpuavdhr.rqh
   decode: true
   phone: "+33 16933 4743"
@@ -49,6 +56,7 @@
   photo: /assets/images/team/hannes.png
 - name: Maxime Hantute
   description: PhD Student
+  group: "phd"
   email: 
   decode: true
   phone: "+33 16933 4759"

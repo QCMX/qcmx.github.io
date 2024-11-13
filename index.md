@@ -54,7 +54,7 @@ groupphoto:
 
 {% include feature_row id="groupphoto" type="center" %}
 
-{% include teamgrid photo="false"%}
+{% include teamgrid photo="false" who="all" %}
 
 
 <!--<img src="{{ site.url }}{{ site.baseurl }}/assets/images/qcmx_team_2021-nov.jpg" alt="Group photo of team members standing next to each other on a terrace." style="width:200px" class="align-left"> -->

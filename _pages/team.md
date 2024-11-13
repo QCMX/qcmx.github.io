@@ -10,7 +10,14 @@ title: Team
 
 # Team members
 
-{% include teamgrid photo="true"%}
+## Permanent members
+{% include teamgrid photo="true" who="permanent" %}
+
+## Post-docs
+{% include teamgrid photo="true" who="post-doc" %}
+
+## PhD students
+{% include teamgrid photo="true" who="phd" %}
 
 
 # Alumni

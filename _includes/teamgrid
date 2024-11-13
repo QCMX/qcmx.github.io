@@ -1,4 +1,8 @@
-{% assign teamgrid = site.data.team %}
+{% if include.who == "all" %}
+  {% assign teamgrid = site.data.team %}
+{% else %}
+  {% assign teamgrid = site.data.team | where: "group", include.who %}
+{% endif %}
 
 <div class="teamgrid">
 
