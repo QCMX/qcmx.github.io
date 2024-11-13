@@ -29,11 +29,15 @@ research:
     title: "Quantum control of hybrid circuits "
     excerpt: "Quantum control of superconductor-nanotube hybrid circuits."
 
-button:
+button_research:
   - url: "/research/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
+button_team:
+  - url: "/team/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 
 groupphoto:
   - image_path: /assets/images/group_photo_2024_jul.jpg
@@ -48,13 +52,15 @@ groupphoto:
 # Research
 
 {% include feature_row id="research" %}
-{% include feature_row id="button" type="center"%}
+{% include feature_row id="button_research" type="center"%}
 
 # Team
 
 {% include feature_row id="groupphoto" type="center" %}
 
 {% include teamgrid photo="false" who="all" %}
+
+{% include feature_row id="button_team" type="center"%}
 
 
 <!--<img src="{{ site.url }}{{ site.baseurl }}/assets/images/qcmx_team_2021-nov.jpg" alt="Group photo of team members standing next to each other on a terrace." style="width:200px" class="align-left"> -->
@@ -64,7 +70,6 @@ groupphoto:
 
 # News
 {% include_relative _pages/news.md %}
-
 
 
 # Funding
