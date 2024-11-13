@@ -1,6 +1,8 @@
 main:
   - title: "Research"
     url: /research/
+  - title: "Team"
+    url: /team/
   - title: "News"
     url: /news/
   - title: "Publications"

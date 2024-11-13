@@ -34,55 +34,6 @@ button:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-teamgrid:
-  - name: Landry Bretheau
-    url: https://pmc.polytechnique.fr/spip.php?article1255
-    description: Professor
-    email: ynaqel.oergurnh@cbylgrpuavdhr.rqh
-    decode: true
-    phone: "+33 16933 4718"
-    orcid: 0000-0001-5628-934X
-  - name: Jean-Damien Pillet
-    url: https://pmc.polytechnique.fr/spip.php?article1280
-    description: Professor
-    email: wrna-qnzvra.cvyyrg@cbylgrpuavdhr.rqh
-    decode: true
-    phone: "+33 16933 4476"
-    orcid: 0000-0002-2766-8049
-  - name: Joël Griesmar
-    url: https://pmc.polytechnique.fr/spip.php?article1332
-    description: Assistant Professor
-    email: wbry.tevrfzne@cbylgrpuavdhr.rqh
-    decode: true
-    phone: "+33 16933 4743"
-    orcid: 0000-0002-0586-6757
-  - name: Everton Arrighi
-    url: https://pmc.polytechnique.fr/spip.php?article1369
-    description: Research Engineer
-    email: riregba.neevtuv@cbylgrpuavdhr.rqh
-    decode: true
-    phone: "+33 16933 4743"
-  - name: Hadrien Duprez
-    description: Post-Doc
-    email: 
-    decode: true
-    phone: "+33 16933 4758"
-  - name: Samy Annabi
-    description: PhD Student
-    email: fnzl.naanov@cbylgrpuavdhr.rqh
-    decode: true
-    phone: "+33 16933 4691"
-  - name: Hannes Riechert
-    description: PhD Student
-    email: unaarf.evrpureg@cbylgrpuavdhr.rqh
-    decode: true
-    phone: "+33 16933 4743"
-    orcid: 0000-0002-1111-3962
-  - name: Maxime Hantute
-    description: PhD Student
-    email: 
-    decode: true
-    phone: "+33 16933 4759"
 
 groupphoto:
   - image_path: /assets/images/group_photo_2024_jul.jpg

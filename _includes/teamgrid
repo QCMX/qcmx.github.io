@@ -1,8 +1,4 @@
-{% if include.id %}
-  {% assign teamgrid = page[include.id] %}
-{% else %}
-  {% assign teamgrid = page.teamgrid %}
-{% endif %}
+{% assign teamgrid = site.data.teamgrid %}
 
 <div class="teamgrid">
 
