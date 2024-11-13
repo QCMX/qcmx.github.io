@@ -14,4 +14,4 @@ title: Team
 
 
 # Alumni
-{% include_relative _pages/alumni.md %}
+{% include_relative alumni.md %}
