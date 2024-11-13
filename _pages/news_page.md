@@ -4,4 +4,4 @@ permalink: /news/
 title: News
 ---
 
-{% include_relative _pages/news.md %}
+{% include_relative news.md %}
