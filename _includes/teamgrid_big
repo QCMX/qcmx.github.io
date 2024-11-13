@@ -1,6 +1,9 @@
 {% assign teamgrid = site.data.teamgrid %}
 
 <div class="teamgrid">
+    <div class="team-image">
+        <img src="/assets/images/group_photo_2024_jul.jpg" alt="Group photo" />
+    </div>    
 
   {% for f in teamgrid %}
     <div class="teamgrid__item">
@@ -37,8 +40,6 @@
           {% endif %}
         </div>
       </div>
-      <br>
     </div>
   {% endfor %}
 </div>
-</a>
