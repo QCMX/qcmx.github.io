@@ -54,7 +54,6 @@ We are always looking for highly motivated PhD students or postdocs.
 Please contact us by email.
 
 
-
 {% include teamgrid photo="false" who="all" %}
 
 {% include feature_row id="button_team" type="center"%}
