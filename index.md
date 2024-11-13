@@ -49,9 +49,10 @@ button_team:
 {% include feature_row id="button_research" type="center"%}
 
 # Team
-![Group photo of team members in the mountains of Aussois in Nov 2022.]({{ site.url }}{{ site.baseurl }}/assets/images/qcmx_team_2022-nov-widecrop.jpg)
+![Group photo of team members standing next to each other in the lab.]({{ site.baseurl }}/assets/images/group_photo_2024_jul.jpg)
+We are always looking for highly motivated PhD students or postdocs.
+Please contact us by email.
 
-{% include feature_row id="groupphoto" type="center" %}
 
 {% include teamgrid photo="false" who="all" %}
 
