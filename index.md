@@ -5,13 +5,13 @@ permalink: /
 title: QCMX lab
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
+  overlay_filter: "0.0"
   overlay_image: /assets/images/alotofdiamonds.png
   caption:
 excerpt: # Shown in header overlay
 
 intro:
-  - image_path: /assets/images/Pillet-thesis-Fig-3-16.png
+  - image_path: /assets/images/growth_oven.gif
     alt: "Placeholder image"
     excerpt: "The goal of the QCMX Lab is to explore the quantum properties of electronic circuits and matter. Our strategy consists in coupling superconducting circuits normally used to process quantum information to materials in order to probe their quantum properties and discover new electronic states of matter. This could make it possible to identify new carriers of quantum information and to simulate complex many-body quantum problems."
 
@@ -42,6 +42,8 @@ button_team:
 ---
 
 {% include feature_row id="intro" type="left" %}
+
+
 
 # Research
 
