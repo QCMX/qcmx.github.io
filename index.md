@@ -52,8 +52,9 @@ button_team:
 
 # Team
 ![Group photo of team members standing next to each other in the lab.]({{ site.baseurl }}/assets/images/group_photo_2024_jul.jpg)
+<p align=center>
 We are committed to fostering an inclusive and supportive research environment. We welcome applications from enthusiastic and talented individuals of all backgrounds who share our passion for discovery. If you're interested in joining us as a PhD student or postdoc, please reach out by email.
-
+</p>
 
 {% include teamgrid photo="false" who="all" %}
 
