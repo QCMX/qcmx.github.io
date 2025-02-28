@@ -35,7 +35,7 @@ bluefors_gallery:
 
 ## Gacrux: our Bluefors LD dilution cryostat.
 
-{% include bluefors_gallery caption="Pictures of Gacrux cryostat." %}
+{% include gallery id="bluefors_gallery" caption="Pictures of Gacrux cryostat." %}
 
 ![Cryostat open]({{ site.baseurl }}/assets/images/labtour/gacrux1_small.jpg)
 <p align=center>  
