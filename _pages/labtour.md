@@ -2,9 +2,40 @@
 layout: single
 permalink: /labtour/
 title: Lab tour
+
+bluefors_gallery:
+  - url: /assets/images/labtour/gacrux1.jpg
+    image_path: /assets/images/labtour/gacrux1_small.jpg
+    alt: "open cryostat"
+    title: "Jean-Damien installing a microwave cable."
+  - url: /assets/images/labtour/gacrux2.jpg
+    image_path: /assets/images/labtour/gacrux2_small.jpg
+    alt: "open cryostat"
+    title: "Joël connecting a microwave circulator."
+  - url: /assets/images/labtour/gacrux3.jpg
+    image_path: /assets/images/labtour/gacrux3_small.jpg
+    alt: "open cryostat"
+    title: "Hadrien installing a Jaws sample holder."
+  - url: /assets/images/labtour/gacrux4.jpg
+    image_path: /assets/images/labtour/gacrux4_small.jpg
+    alt: "open cryostat"
+    title: "Maxime verifying the connection of a microwave attenuator."
+  - url: /assets/images/labtour/gacrux6.jpg
+    image_path: /assets/images/labtour/gacrux6_small.jpg
+    alt: "open cryostat"
+    title: "Landry and Maxime inspecting a Jaws sample holder."
+  - url: /assets/images/labtour/gacrux5.jpg
+    image_path: /assets/images/labtour/gacrux5_small.jpg
+    alt: "open cryostat"
+    title: "Samy, Hannes and Landry opening the last screen of Gacrux."
+
 ---
 
+
+
 ## Gacrux: our Bluefors LD dilution cryostat.
+
+{% include bluefors_gallery caption="Pictures of Gacrux cryostat." %}
 
 ![Cryostat open]({{ site.baseurl }}/assets/images/labtour/gacrux1_small.jpg)
 <p align=center>  
