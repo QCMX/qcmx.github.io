@@ -65,3 +65,9 @@
   decode: true
   phone: "+33 16933 4759"
   photo: /assets/images/team/maxime.png
+- name: Thibault Thuegaz
+  description: Intern
+  group: "intern"
+  email: guvonhyg.guhrtnm@cbylgrpuavdhr.rqh
+  decode: true
+  photo: /assets/images/team/thibault.jpg

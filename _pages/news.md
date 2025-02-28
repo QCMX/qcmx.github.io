@@ -1,3 +1,6 @@
+## 2025
+- Feb 2025: Welcome to Thibault who joined the group as a M2 intern!
+
 ## 2024
 - Dec 2024: Second experimental article by QCMX, published in [Phys. Rev. Applied](https://doi.org/10.1103/PhysRevApplied.22.064035): "Ultraclean carbon nanotube-based Josephson junctions."
 - Dec 2024: First experimental article by QCMX, published in [Phys. Rev. Applied](https://doi.org/10.1103/PhysRevApplied.22.064027): "Two-tone spectroscopy of high-frequency quantum circuits with a Josephson emitter."
