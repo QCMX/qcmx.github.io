@@ -18,6 +18,8 @@ title: Team
 ## PhD students
 {% include teamgrid photo="true" who="phd" %}
 
+## Interns
+{% include teamgrid photo="true" who="intern" %}
 
 # Alumni
 {% include_relative alumni.md %}
