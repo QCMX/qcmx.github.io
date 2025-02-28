@@ -62,7 +62,7 @@ title: Lab tour
 </p>
 
 <div style="text-align: center;">
-  <video src="{{ site.url }}{{ site.baseurl }}/assets/videos/scud.mp4" width="500" height="375" preload="none" controls></video>
+  <video src="{{ site.url }}{{ site.baseurl }}/assets/videos/growth_oven.mp4" width="500" height="375" controls></video>
   <div>
     The inside of Scud.
   </div>
@@ -79,5 +79,5 @@ title: Lab tour
 
 
 
-Photo credits: © Ecole polytechnique - Jérémy Barande
+Photo credits: © Ecole polytechnique - Jérémy Barande<br>
 Video credits: © École polytechnique - Didier V. Rouable	    
