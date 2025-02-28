@@ -53,7 +53,7 @@ button_team:
 # Team
 ![Group photo of team members standing next to each other in the lab.]({{ site.baseurl }}/assets/images/Group Picture_QCMX_2025_small.jpg)
 <p align=center>  
-  © Ecole polytechnique / Institut Polytechnique de Paris / Jérémy Barande
+  © Ecole polytechnique - Jérémy Barande
 </p>
 
 <p align=center>
