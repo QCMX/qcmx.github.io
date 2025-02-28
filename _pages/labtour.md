@@ -36,12 +36,6 @@ title: Lab tour
 	Samy, Hannes and Landry opening the last screen of Gacrux.
 </p>
 
-<div style="text-align: center;">
-  <video src="{{ site.url }}{{ site.baseurl }}/assets/videos/gacrux_opening_small.mp4" width="500" height="375" preload="none" controls></video>
-  <div>
-    Opening of the last screen of Gacrux.
-  </div>
-</div>
 
 
 ## Scud: our Bluefors dilution cryostat with Fast Sample Exchange System.
@@ -62,7 +56,7 @@ title: Lab tour
 </p>
 
 <div style="text-align: center;">
-  <video src="{{ site.url }}{{ site.baseurl }}/assets/videos/growth_oven.mp4" width="500" height="375" controls></video>
+  <video src="{{ site.url }}{{ site.baseurl }}/assets/videos/scud_small.mp4" width="500" height="375" controls></video>
   <div>
     The inside of Scud.
   </div>
@@ -71,7 +65,7 @@ title: Lab tour
 
 
 <div style="text-align: center;">
-  <video src="{{ site.url }}{{ site.baseurl }}/assets/videos/test.mp4" width="500" height="375" controls></video>
+  <video src="{{ site.url }}{{ site.baseurl }}/assets/videos/scud_probe_small.mp4" width="500" height="375" controls></video>
   <div>
     Insertion of the probe in Scud.
   </div>
