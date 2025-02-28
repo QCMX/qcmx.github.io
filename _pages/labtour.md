@@ -76,7 +76,7 @@ title: Lab tour
 
 
 <div style="text-align: center;">
-  <video src="{{ site.url }}{{ site.baseurl }}/assets/videos/scud_probe.mp4" width="500" height="375" preload="none" controls></video>
+  <video src="{{ site.url }}{{ site.baseurl }}/assets/videos/test.mp4" width="500" height="375" preload="none" controls></video>
   <div>
     Insertion of the probe in Scud.<br>
     © École polytechnique - D.V. Rouable
