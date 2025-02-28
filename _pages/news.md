@@ -1,5 +1,7 @@
 ## 2025
 - Feb 2025: Welcome to Thibault who joined the group as a M2 intern!
+- Feb 2025: Jérémy Barande and Didier Vladimir Rouable from the photo and audiovisual departments came to the lab for a photo shooting. Nice photos [here](https://www.flickr.com/photos/117994717@N06/54350277304/in/album-72157642630504414).
+
 
 ## 2024
 - Dec 2024: Second experimental article by QCMX, published in [Phys. Rev. Applied](https://doi.org/10.1103/PhysRevApplied.22.064035): "Ultraclean carbon nanotube-based Josephson junctions."

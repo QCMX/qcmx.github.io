@@ -6,14 +6,14 @@ title: QCMX lab
 header:
   overlay_color: "#000"
   overlay_filter: "0.0"
-  overlay_image: /assets/images/alotofdiamonds.png
+  overlay_image: /assets/images/alotofdiamonds_small.png
   caption:
 excerpt: # Shown in header overlay
 
 intro:
   - image_path: /assets/images/growth_oven.gif
     alt: "Placeholder image"
-    excerpt: "The goal of the QCMX Lab is to explore the quantum properties of electronic circuits and matter. Our strategy consists in coupling superconducting circuits normally used to process quantum information to materials in order to probe their quantum properties and discover new electronic states of matter. This could make it possible to identify new carriers of quantum information and to simulate complex many-body quantum problems."
+    excerpt: "The goal of the QCMX Lab is to explore the quantum properties of electronic circuits and matter. Our strategy consists in coupling superconducting circuits normally used to process quantum information to materials in order to probe their quantum properties and discover new electronic states of matter. This could make it possible to identify new carriers of quantum information and to simulate complex many-body quantum problems. Click [here](/labtour/) for a lab tour."
 
 research:
   - image_path: /assets/images/CNTtransfer.png
@@ -51,7 +51,11 @@ button_team:
 {% include feature_row id="button_research" type="center"%}
 
 # Team
-![Group photo of team members standing next to each other in the lab.]({{ site.baseurl }}/assets/images/group_photo_2024_jul.jpg)
+![Group photo of team members standing next to each other in the lab.]({{ site.baseurl }}/assets/images/Group Picture_QCMX_2025_small.jpg)
+<p align=center>  
+  © Ecole polytechnique - Jérémy Barande
+</p>
+
 <p align=center>
 We are committed to fostering an inclusive and supportive research environment. We welcome applications from enthusiastic and talented individuals of all backgrounds who share our passion for discovery. If you're interested in joining us as a PhD student or postdoc, please reach out by email.
 </p>

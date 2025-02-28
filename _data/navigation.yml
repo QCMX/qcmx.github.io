@@ -7,5 +7,7 @@ main:
     url: /news/
   - title: "Publications"
     url: /publications/
+  - title: "Lab tour"
+    url: /labtour/
   - title: "Getting there"
     url: /contact/
