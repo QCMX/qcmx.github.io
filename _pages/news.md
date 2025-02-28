@@ -2,8 +2,10 @@
 - Feb 2025: Welcome to Thibault who joined the group as a M2 intern!
 - Feb 2025: Jérémy Barande and Didier Vladimir Rouable from the photo and audiovisual departments came to the lab for a photo shooting. Nice photos [here](https://www.flickr.com/photos/117994717@N06/54350277304/in/album-72157642630504414).
 
+
 ## 2024
-- Oct 2024: First experimental article by QCMX, published in [Physical Review Applied](https://journals.aps.org/prapplied/): "Two-tone spectroscopy of high-frequency quantum circuits with a Josephson emitter!"
+- Dec 2024: Second experimental article by QCMX, published in [Phys. Rev. Applied](https://doi.org/10.1103/PhysRevApplied.22.064035): "Ultraclean carbon nanotube-based Josephson junctions."
+- Dec 2024: First experimental article by QCMX, published in [Phys. Rev. Applied](https://doi.org/10.1103/PhysRevApplied.22.064027): "Two-tone spectroscopy of high-frequency quantum circuits with a Josephson emitter."
 - Sep 2024: Congrats to JD who was appointed Professor.
 - June 2024: Congrats to Joël who was awarded a young researcher grant from ANR.
 - Feb 2024: Congrats to Joël for his paper published in [Physical Review X](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.011011) on the implementation of a microwave photon-number amplifier using a dc-Biased Josephson junction.
