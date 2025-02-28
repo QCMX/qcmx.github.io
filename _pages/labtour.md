@@ -4,7 +4,7 @@ permalink: /labtour/
 title: Lab tour
 ---
 
-# Gacrux: our Bluefors LD dilution cryostat.
+## Gacrux: our Bluefors LD dilution cryostat.
 
 ![Cryostat open]({{ site.baseurl }}/assets/images/labtour/gacrux1.jpg)
 <p align=center>  
@@ -12,22 +12,63 @@ title: Lab tour
 	© Ecole polytechnique - Jérémy Barande
 </p>
 
+![Cryostat open]({{ site.baseurl }}/assets/images/labtour/gacrux2.jpg)
+<p align=center>  
+	Joël connecting a microwave circulator.<br>
+	© Ecole polytechnique - Jérémy Barande
+</p>
+
+![Cryostat open]({{ site.baseurl }}/assets/images/labtour/gacrux3.jpg)
+<p align=center>  
+	Hadrien installing a Jaws sample holder.<br>
+	© Ecole polytechnique - Jérémy Barande
+</p>
+
+![Cryostat open]({{ site.baseurl }}/assets/images/labtour/gacrux4.jpg)
+<p align=center>  
+	Maxime verifying the connection of a microwave attenuator.<br>
+	© Ecole polytechnique - Jérémy Barande
+</p>
+
+![Cryostat open]({{ site.baseurl }}/assets/images/labtour/gacrux5.jpg)
+<p align=center>  
+	Samy, Hannes and Landry opening the last screen of Gacrux.<br>
+	© Ecole polytechnique - Jérémy Barande
+</p>
+
 <div style="text-align: center;">
-  <video src="{{ site.url }}{{ site.baseurl }}/assets/videos/gacrux_opening.mp4" width="500" height="375" preload="none" controls></video>
+  <video src="{{ site.url }}{{ site.baseurl }}/assets/videos/gacrux_opening_small.mp4" width="500" height="375" preload="none" controls></video>
   <div>
-    Opening of the last screen of Gacrux.
+    Opening of the last screen of Gacrux.<br>
     © École polytechnique - D.V. Rouable
   </div>
 </div>
 
 
-# Scud: our Bluefors dilution cryostat with Fast Sample Exchange System.
+## Scud: our Bluefors dilution cryostat with Fast Sample Exchange System.
+
+![Cryostat open]({{ site.baseurl }}/assets/images/labtour/scud1.jpg)
+<p align=center>  
+	The inside of Scud.<br>
+	© Ecole polytechnique - Jérémy Barande
+</p>
+
+![Cryostat open]({{ site.baseurl }}/assets/images/labtour/scud2.jpg)
+<p align=center>  
+	Samy working on Scud.<br>
+	© Ecole polytechnique - Jérémy Barande
+</p>
+
+![Cryostat open]({{ site.baseurl }}/assets/images/labtour/scud3.jpg)
+<p align=center>  
+	Details of SMA microwave connectors.<br>
+	© Ecole polytechnique - Jérémy Barande
+</p>
 
 <div style="text-align: center;">
   <video src="{{ site.url }}{{ site.baseurl }}/assets/videos/scud.mp4" width="500" height="375" preload="none" controls></video>
   <div>
-    The inside of Scud.
-    
+    The inside of Scud.<br>
     © École polytechnique - D.V. Rouable
   </div>
 </div>
@@ -37,7 +78,7 @@ title: Lab tour
 <div style="text-align: center;">
   <video src="{{ site.url }}{{ site.baseurl }}/assets/videos/scud_probe.mp4" width="500" height="375" preload="none" controls></video>
   <div>
-    Insertion of the probe in Scud.
+    Insertion of the probe in Scud.<br>
     © École polytechnique - D.V. Rouable
   </div>
 </div>
