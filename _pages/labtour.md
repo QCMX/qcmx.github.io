@@ -6,31 +6,31 @@ title: Lab tour
 
 ## Gacrux: our Bluefors LD dilution cryostat.
 
-![Cryostat open]({{ site.baseurl }}/assets/images/labtour/gacrux1.jpg)
+![Cryostat open]({{ site.baseurl }}/assets/images/labtour/gacrux1_small.jpg)
 <p align=center>  
 	Jean-Damien installing a microwave cable.<br>
 	© Ecole polytechnique - Jérémy Barande
 </p>
 
-![Cryostat open]({{ site.baseurl }}/assets/images/labtour/gacrux2.jpg)
+![Cryostat open]({{ site.baseurl }}/assets/images/labtour/gacrux2_small.jpg)
 <p align=center>  
 	Joël connecting a microwave circulator.<br>
 	© Ecole polytechnique - Jérémy Barande
 </p>
 
-![Cryostat open]({{ site.baseurl }}/assets/images/labtour/gacrux3.jpg)
+![Cryostat open]({{ site.baseurl }}/assets/images/labtour/gacrux3_small.jpg)
 <p align=center>  
 	Hadrien installing a Jaws sample holder.<br>
 	© Ecole polytechnique - Jérémy Barande
 </p>
 
-![Cryostat open]({{ site.baseurl }}/assets/images/labtour/gacrux4.jpg)
+![Cryostat open]({{ site.baseurl }}/assets/images/labtour/gacrux4_small.jpg)
 <p align=center>  
 	Maxime verifying the connection of a microwave attenuator.<br>
 	© Ecole polytechnique - Jérémy Barande
 </p>
 
-![Cryostat open]({{ site.baseurl }}/assets/images/labtour/gacrux5.jpg)
+![Cryostat open]({{ site.baseurl }}/assets/images/labtour/gacrux5_small.jpg)
 <p align=center>  
 	Samy, Hannes and Landry opening the last screen of Gacrux.<br>
 	© Ecole polytechnique - Jérémy Barande
@@ -47,19 +47,19 @@ title: Lab tour
 
 ## Scud: our Bluefors dilution cryostat with Fast Sample Exchange System.
 
-![Cryostat open]({{ site.baseurl }}/assets/images/labtour/scud1.jpg)
+![Cryostat open]({{ site.baseurl }}/assets/images/labtour/scud1_small.jpg)
 <p align=center>  
 	The inside of Scud.<br>
 	© Ecole polytechnique - Jérémy Barande
 </p>
 
-![Cryostat open]({{ site.baseurl }}/assets/images/labtour/scud2.jpg)
+![Cryostat open]({{ site.baseurl }}/assets/images/labtour/scud2_small.jpg)
 <p align=center>  
 	Samy working on Scud.<br>
 	© Ecole polytechnique - Jérémy Barande
 </p>
 
-![Cryostat open]({{ site.baseurl }}/assets/images/labtour/scud3.jpg)
+![Cryostat open]({{ site.baseurl }}/assets/images/labtour/scud3_small.jpg)
 <p align=center>  
 	Details of SMA microwave connectors.<br>
 	© Ecole polytechnique - Jérémy Barande
