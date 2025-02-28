@@ -8,39 +8,38 @@ title: Lab tour
 
 ![Cryostat open]({{ site.baseurl }}/assets/images/labtour/gacrux1_small.jpg)
 <p align=center>  
-	Jean-Damien installing a microwave cable.<br>
-	© Ecole polytechnique - Jérémy Barande
+	Jean-Damien installing a microwave cable.
 </p>
 
 ![Cryostat open]({{ site.baseurl }}/assets/images/labtour/gacrux2_small.jpg)
 <p align=center>  
-	Joël connecting a microwave circulator.<br>
-	© Ecole polytechnique - Jérémy Barande
+	Joël connecting a microwave circulator.
 </p>
 
 ![Cryostat open]({{ site.baseurl }}/assets/images/labtour/gacrux3_small.jpg)
 <p align=center>  
-	Hadrien installing a Jaws sample holder.<br>
-	© Ecole polytechnique - Jérémy Barande
+	Hadrien installing a Jaws sample holder.
 </p>
 
 ![Cryostat open]({{ site.baseurl }}/assets/images/labtour/gacrux4_small.jpg)
 <p align=center>  
-	Maxime verifying the connection of a microwave attenuator.<br>
-	© Ecole polytechnique - Jérémy Barande
+	Maxime verifying the connection of a microwave attenuator.
+</p>
+
+![Cryostat open]({{ site.baseurl }}/assets/images/labtour/gacrux6_small.jpg)
+<p align=center>  
+	Landry and Maxime inspecting a Jaws sample holder.
 </p>
 
 ![Cryostat open]({{ site.baseurl }}/assets/images/labtour/gacrux5_small.jpg)
 <p align=center>  
-	Samy, Hannes and Landry opening the last screen of Gacrux.<br>
-	© Ecole polytechnique - Jérémy Barande
+	Samy, Hannes and Landry opening the last screen of Gacrux.
 </p>
 
 <div style="text-align: center;">
   <video src="{{ site.url }}{{ site.baseurl }}/assets/videos/gacrux_opening_small.mp4" width="500" height="375" preload="none" controls></video>
   <div>
-    Opening of the last screen of Gacrux.<br>
-    © École polytechnique - D.V. Rouable
+    Opening of the last screen of Gacrux.
   </div>
 </div>
 
@@ -49,27 +48,23 @@ title: Lab tour
 
 ![Cryostat open]({{ site.baseurl }}/assets/images/labtour/scud1_small.jpg)
 <p align=center>  
-	The inside of Scud.<br>
-	© Ecole polytechnique - Jérémy Barande
+	The inside of Scud.
 </p>
 
 ![Cryostat open]({{ site.baseurl }}/assets/images/labtour/scud2_small.jpg)
 <p align=center>  
-	Samy working on Scud.<br>
-	© Ecole polytechnique - Jérémy Barande
+	Samy working on Scud.
 </p>
 
 ![Cryostat open]({{ site.baseurl }}/assets/images/labtour/scud3_small.jpg)
 <p align=center>  
-	Details of SMA microwave connectors.<br>
-	© Ecole polytechnique - Jérémy Barande
+	Details of SMA microwave connectors.
 </p>
 
 <div style="text-align: center;">
   <video src="{{ site.url }}{{ site.baseurl }}/assets/videos/scud.mp4" width="500" height="375" preload="none" controls></video>
   <div>
-    The inside of Scud.<br>
-    © École polytechnique - D.V. Rouable
+    The inside of Scud.
   </div>
 </div>
 
@@ -78,9 +73,11 @@ title: Lab tour
 <div style="text-align: center;">
   <video src="{{ site.url }}{{ site.baseurl }}/assets/videos/test.mp4" width="500" height="375" preload="none" controls></video>
   <div>
-    Insertion of the probe in Scud.<br>
-    © École polytechnique - D.V. Rouable
+    Insertion of the probe in Scud.
   </div>
 </div>
 
 
+Photo credits: © Ecole polytechnique - Jérémy Barande
+
+Video credits: © École polytechnique - Didier V. Rouable	    
