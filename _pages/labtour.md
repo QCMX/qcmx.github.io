@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 permalink: /labtour/
 title: Lab tour
 
@@ -28,6 +28,8 @@ bluefors_gallery:
     image_path: /assets/images/labtour/gacrux5_small.jpg
     alt: "open cryostat"
     title: "Samy, Hannes and Landry opening the last screen of Gacrux."
+
+ 
 
 ---
 
