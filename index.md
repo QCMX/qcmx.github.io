@@ -51,8 +51,11 @@ button_team:
 {% include feature_row id="button_research" type="center"%}
 
 # Team
-![Group photo of team members standing next to each other in the lab.]({{ site.baseurl }}/assets/images/Group Picture_QCMX_2025_small.jpg)
-© Ecole polytechnique / Institut Polytechnique de Paris / Jérémy Barande
+<p align=center>
+  ![Group photo of team members standing next to each other in the lab.]({{ site.baseurl }}/assets/images/Group Picture_QCMX_2025_small.jpg)
+  © Ecole polytechnique / Institut Polytechnique de Paris / Jérémy Barande
+</p>
+
 <p align=center>
 We are committed to fostering an inclusive and supportive research environment. We welcome applications from enthusiastic and talented individuals of all backgrounds who share our passion for discovery. If you're interested in joining us as a PhD student or postdoc, please reach out by email.
 </p>
