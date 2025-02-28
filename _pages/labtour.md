@@ -46,7 +46,6 @@ scud_gallery:
 ---
 
 
-
 ## Gacrux: our Bluefors LD dilution cryostat.
 
 {% include gallery id="gacrux_gallery"%}
@@ -63,7 +62,6 @@ scud_gallery:
     The inside of Scud.
   </div>
 </div>
-
 
 
 <div style="text-align: center;">
