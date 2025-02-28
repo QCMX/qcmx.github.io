@@ -4,7 +4,8 @@ permalink: /team/
 title: Team
 ---
 
-![Group Photo]({{ site.baseurl }}/assets/images/group_photo_2024_jul.jpg)
+![Group Photo]({{ site.baseurl }}/assets/images/Group Picture_QCMX_2025_small.jpg)
+© Ecole polytechnique / Institut Polytechnique de Paris / Jérémy Barande
 
 
 # Team members
