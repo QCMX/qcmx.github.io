@@ -4,8 +4,8 @@ permalink: /team/
 title: Team
 ---
 
-<p align=center>
-	![Group Photo]({{ site.baseurl }}/assets/images/Group Picture_QCMX_2025_small.jpg)
+![Group Photo]({{ site.baseurl }}/assets/images/Group Picture_QCMX_2025_small.jpg)
+<p align=center>	
 	© Ecole polytechnique / Institut Polytechnique de Paris / Jérémy Barande
 </p>
 
