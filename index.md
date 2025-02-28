@@ -13,7 +13,7 @@ excerpt: # Shown in header overlay
 intro:
   - image_path: /assets/images/growth_oven.gif
     alt: "Placeholder image"
-    excerpt: "The goal of the QCMX Lab is to explore the quantum properties of electronic circuits and matter. Our strategy consists in coupling superconducting circuits normally used to process quantum information to materials in order to probe their quantum properties and discover new electronic states of matter. This could make it possible to identify new carriers of quantum information and to simulate complex many-body quantum problems. Click here for a [lab](/labtour/) tour."
+    excerpt: "The goal of the QCMX Lab is to explore the quantum properties of electronic circuits and matter. Our strategy consists in coupling superconducting circuits normally used to process quantum information to materials in order to probe their quantum properties and discover new electronic states of matter. This could make it possible to identify new carriers of quantum information and to simulate complex many-body quantum problems. Click [here](/labtour/) for a lab tour."
 
 research:
   - image_path: /assets/images/CNTtransfer.png
