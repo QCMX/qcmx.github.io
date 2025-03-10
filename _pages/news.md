@@ -1,4 +1,5 @@
 ## 2025
+- March 2025: Welcome to Sugeiva and Tien who joined the group as M2 interns!
 - Feb 2025: Welcome to Thibault who joined the group as a M2 intern!
 - Feb 2025: Jérémy Barande and Didier Vladimir Rouable from the photo and audiovisual departments came to the lab for a photo shooting. Nice photos [here](https://www.flickr.com/photos/117994717@N06/54350277304/in/album-72157642630504414).
 
