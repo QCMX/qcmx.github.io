@@ -7,6 +7,11 @@ title: List of publications
 
 # Articles
 
+## 2025
+- H. Riechert, S. Annabi, A. Peugeot, H. Duprez, M. Hantute, K. Watanabe, T. Taniguchi, E. Arrighi, J. Griesmar, J.-D. Pillet, L. Bretheau.
+*Superconducting qubit based on a single molecule: the carbon nanotube gatemon.*
+[arXiv](https://arxiv.org/abs/2503.01978) 2503.01978.
+
 ## 2024
 - A. Peugeot, H. Riechert, S. Annabi, L. Balembois, M. Villiers, E. Flurin, J. Griesmar, E. Arrighi, J.-D. Pillet, L. Bretheau.
 *Two-tone spectroscopy of high-frequency quantum circuits with a Josephson emitter.*

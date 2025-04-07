@@ -27,7 +27,11 @@ gacrux_gallery:
   - url: /assets/images/labtour/gacrux5.jpg
     image_path: /assets/images/labtour/gacrux5_small.jpg
     alt: "open cryostat"
-    title: "Samy, Hannes and Landry opening the last screen of Gacrux."
+    title: "Samy, Hannes and Landry opening the last screen of Gacrux."  
+  - url: /assets/images/labtour/gacrux7.jpg
+    image_path: /assets/images/labtour/gacrux7_small.jpg
+    alt: "open cryostat"
+    title: "Everton holding a microwave sample holder in front of Gacrux."
 
 scud_gallery:
   - url: /assets/images/labtour/scud1.jpg
@@ -44,6 +48,11 @@ scud_gallery:
     title: "Details of SMA microwave connectors."
 
 ---
+
+![Group Photo]({{ site.baseurl }}/assets/images/Group Picture_QCMX_2025_small.jpg)
+<p align=center>  
+  The QCMX team in February 2025.
+</p>
 
 
 ## Gacrux: our Bluefors LD dilution cryostat.
