@@ -1,6 +1,6 @@
 ## 2025
-- April 2025: Welcome to Ángel who joined the group as a RobustSuperQ post-doc!
-- March 2025: Congratulations to Hannes for his manuscript on a nanotube gatemon. Pre-print on [arXiv](https://arxiv.org/abs/2503.01978).
+- April 2025: Welcome to Ángel who joined the group as a [RobustSuperQ](https://www.robustsuperq.fr/)) post-doc!
+- March 2025: Congratulations to Hannes for his manuscript on a nanotube gatemon! Pre-print on [arXiv](https://arxiv.org/abs/2503.01978).
 - March 2025: Congratulations to Hadrien on being ranked at the CNRS concours!
 - March 2025: Welcome to Sugeiva and Tien who joined the group as M2 interns!
 - Feb 2025: Welcome to Thibault who joined the group as a M2 intern!
