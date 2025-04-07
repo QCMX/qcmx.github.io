@@ -49,6 +49,11 @@ scud_gallery:
 
 ---
 
+![Group Photo]({{ site.baseurl }}/assets/images/Group Picture_QCMX_2025_small.jpg)
+<p align=center>  
+  The QCMX team in February 2025.
+</p>
+
 
 ## Gacrux: our Bluefors LD dilution cryostat.
 
