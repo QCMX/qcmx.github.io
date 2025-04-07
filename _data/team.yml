@@ -71,3 +71,11 @@
   email: guvonhyg.guhrtnm@cbylgrpuavdhr.rqh
   decode: true
   photo: /assets/images/team/thibault.jpg
+- name: Tien Nguyen
+  description: Intern
+  group: "intern"
+  decode: true
+- name: Sugeiva Kisnapavan
+  description: Intern
+  group: "intern"
+  decode: true
