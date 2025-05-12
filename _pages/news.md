@@ -1,17 +1,19 @@
 ## 2025
+- May 2025: Congratulations to Samy for his successful PhD defense! Well done! 🥳
+- April 2025: Congratulations to Joël for his manuscript on the pinhole Josephson junctions! :page_with_curl: Pre-print on [arXiv](https://arxiv.org/abs/2504.21494).
 - April 2025: Welcome to Ángel who joined the group as a [RobustSuperQ](https://www.robustsuperq.fr/)) post-doc!
-- March 2025: Congratulations to Hannes for his manuscript on a nanotube gatemon! Pre-print on [arXiv](https://arxiv.org/abs/2503.01978).
-- March 2025: Congratulations to Hadrien on being ranked at the CNRS concours!
+- March 2025: Congratulations to Hannes for his manuscript on a nanotube gatemon! :page_with_curl: Pre-print on [arXiv](https://arxiv.org/abs/2503.01978).
+- March 2025: Congratulations to Hadrien on being ranked at the CNRS concours! :tada:
 - March 2025: Welcome to Sugeiva and Tien who joined the group as M2 interns!
 - Feb 2025: Welcome to Thibault who joined the group as a M2 intern!
-- Feb 2025: Jérémy Barande and Didier Vladimir Rouable from the photo and audiovisual departments came to the lab for a photo shooting. Nice photos [here](https://www.flickr.com/photos/117994717@N06/54350277304/in/album-72157642630504414).
+- Feb 2025: Jérémy Barande and Didier Vladimir Rouable from the photo and audiovisual departments came to the lab for a photo shooting. Nice photos [here](https://www.flickr.com/photos/117994717@N06/54350277304/in/album-72157642630504414). :camera:
 
 
 ## 2024
-- Dec 2024: Second experimental article by QCMX, published in [Phys. Rev. Applied](https://doi.org/10.1103/PhysRevApplied.22.064035): "Ultraclean carbon nanotube-based Josephson junctions."
-- Dec 2024: First experimental article by QCMX, published in [Phys. Rev. Applied](https://doi.org/10.1103/PhysRevApplied.22.064027): "Two-tone spectroscopy of high-frequency quantum circuits with a Josephson emitter."
-- Sep 2024: Congrats to JD who was appointed Professor.
-- June 2024: Congrats to Joël who was awarded a young researcher grant from ANR.
+- Dec 2024: :page_with_curl: Second experimental article by QCMX, published in [Phys. Rev. Applied](https://doi.org/10.1103/PhysRevApplied.22.064035): "Ultraclean carbon nanotube-based Josephson junctions."
+- Dec 2024: :page_with_curl: First experimental article by QCMX, published in [Phys. Rev. Applied](https://doi.org/10.1103/PhysRevApplied.22.064027): "Two-tone spectroscopy of high-frequency quantum circuits with a Josephson emitter."
+- Sep 2024: Congrats to JD who was appointed Professor. :mortar_board:
+- June 2024: Congrats to Joël who was awarded a young researcher grant from ANR. 💰
 - Feb 2024: Congrats to Joël for his paper published in [Physical Review X](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.011011) on the implementation of a microwave photon-number amplifier using a dc-Biased Josephson junction.
 
 ## 2023

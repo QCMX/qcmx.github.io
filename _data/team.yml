@@ -45,6 +45,7 @@
   group: "post-doc"
   email: natry.vonor@cbylgrpuavdhr.rqh
   decode: true
+  photo: /assets/images/team/angel.jpeg
 - name: Samy Annabi
   url: https://pmc.polytechnique.fr/spip.php?article1254
   description: PhD Student
