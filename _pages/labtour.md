@@ -47,6 +47,25 @@ scud_gallery:
     alt: "open cryostat"
     title: "Details of SMA microwave connectors."
 
+sample_gallery:
+  - url: /assets/images/labtour/chip_withangle.jpg
+    image_path: /assets/images/labtour/chip_withangle.jpg
+    alt: "gatemon chip"
+    title: "The gatemon chip."
+  - url: /assets/images/labtour/RFchip_DF.jpg
+    image_path: /assets/images/labtour/RFchip_DF.jpg
+    alt: "gatemon chip"
+    title: "The gatemon chip."
+  - url: /assets/images/labtour/fourchips.jpg
+    image_path: /assets/images/labtour/fourchips.jpg
+    alt: "four chips"
+    title: "Four pinhole junctions chips."
+  - url: /assets/images/labtour/jawschip.jpg
+    image_path: /assets/images/labtour/jawschip_small.jpg
+    alt: "Jaws with chip"
+    title: "Resonators in a Jaws sample holder."
+
+
 ---
 
 ![Group Photo]({{ site.baseurl }}/assets/images/Group Picture_QCMX_2025_small.jpg)
@@ -81,6 +100,12 @@ scud_gallery:
 </div>
 
 
+## Samples & setup collection
 
-Photo credits: © Ecole polytechnique - Jérémy Barande<br>
-Video credits: © École polytechnique - Didier V. Rouable	    
+{% include gallery id="sample_gallery"%}
+
+
+
+Cryostat photo credits: © Ecole polytechnique - Jérémy Barande
+<br>
+Cryostat video credits: © École polytechnique - Didier V. Rouable	    

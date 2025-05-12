@@ -22,7 +22,8 @@ list = ['gacrux1',
         'scud1',
         'scud2',
         'scud3',]
-list = ['gacrux7']
+list = ['jawschip']
+
 
 for i in list:
     rescale(i, 2)
