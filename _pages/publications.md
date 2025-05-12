@@ -8,6 +8,9 @@ title: List of publications
 # Articles
 
 ## 2025
+- J. Griesmar, H. Riechert, M. Hantute, A. Peugeot, S. Annabi, Ç. Ö. Girit, G. O. Steffensen, A. L. Yeyati, E. Arrighi, L. Bretheau, J.-D. Pillet.
+*Towards a* cos(2φ) *Josephson element using aluminum junctions with well-transmitted channels.*
+[arXiv](https://arxiv.org/abs/2504.21494) 2504.21494.
 - H. Riechert, S. Annabi, A. Peugeot, H. Duprez, M. Hantute, K. Watanabe, T. Taniguchi, E. Arrighi, J. Griesmar, J.-D. Pillet, L. Bretheau.
 *Superconducting qubit based on a single molecule: the carbon nanotube gatemon.*
 [arXiv](https://arxiv.org/abs/2503.01978) 2503.01978.
