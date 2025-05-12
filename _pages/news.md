@@ -1,4 +1,6 @@
 ## 2025
+- May 2025: Congratulations to Samy for his successful PhD defense! Well done!
+- April 2025: Congratulations to Joël for his manuscript on the pinhole Josephson junctions! Pre-print on [arXiv](https://arxiv.org/abs/2504.21494).
 - April 2025: Welcome to Ángel who joined the group as a [RobustSuperQ](https://www.robustsuperq.fr/)) post-doc!
 - March 2025: Congratulations to Hannes for his manuscript on a nanotube gatemon! Pre-print on [arXiv](https://arxiv.org/abs/2503.01978).
 - March 2025: Congratulations to Hadrien on being ranked at the CNRS concours!
