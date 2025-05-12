@@ -35,6 +35,15 @@ It will take a minute to deploy the new webpage. Use `Ctrl+Shift+R` to reload al
 
 When developing locally, it is of course possible to push to a new branch in `QCMX/qcmx.github.io` or to the branch `gh-pages` in `QCMX/website`, and afterwards create & merge the pull request.
 
+### Cheat sheet for usual modifications
+| What? | How? |
+| ---- | --- |
+| Update news section | /_pages/news.md |
+| New publication | /_pages/publications.md |
+| Newcomer | /_data/team.yml (only name, description and group are mandatory; read below for email obfuscation)|
+| Newcomer picture | put the picture in /assets/images/team/xxx.xxx, update newcomer in team.yml |
+
+
 ## Jekyll templating
 For explanations on how to configure the page see the [documentation for Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/configuration/), the used theme.
 
@@ -43,7 +52,14 @@ For explanations on how to configure the page see the [documentation for Minimal
 ## Email obfuscation
 Email obfuscation helps fight spam.  To this end, the `href` attribute is encoded using ROT-13.  After DOM load the `href` attribute of all elements with the `decode-href` class are automatically decoded.
 
-The e-mail is written in encoded form in the source code.  To encode an e-mail link open the developer console (F12 in firefox) and type `rot('name@example.com')`.
+The e-mail is written in encoded form in the source code.  To encode an e-mail link open the developer console (F12 in firefox) and type `rot('name@example.com')`. If this doesn't work, you can use the following python function:
+
+```
+import codecs
+def rot_encode(first_name, last_name):
+    email = first_name.lower() + '.' + last_name.lower() + '@polytechnique.edu'
+    print(codecs.encode(email, 'rot_13'))
+```
 
 Then the `decode-href` class has to be added to the HTML. The `author_profile` and `teamgrid` includes support the `decode: true` setting to achieve this. `author_profile` should include `mailto:`
 
