@@ -1,9 +1,11 @@
+- Everton Arrighi, Research Engineer (2022-2025), now at [LNNano](https://lnnano.cnpem.br/en/home-en/).
 - Ambroise Peugeot, Post-Doc (2020-2023), now at [ENS Lyon](https://www.ens-lyon.fr/PHYSIQUE/presentation/annuaire/peugeot-ambroise).
 - Pierre-Eugène Coulon: Research Engineer (2018-2020).
 - Regular visitors: 
     - Danijela Markovic: CNRS Researcher at Laboratoire Albert Fert.
     - Baptiste Carles: PhD Student at Laboratoire Albert Fert.
 - Interns: 
+    - Thibault Thuégaz (2025, UGA / Phelma M2)
     - Solenn Cances (2022, X / ETH Zurich M2).
     - Etienne Bargel (2020, ENS Paris-Saclay L3).
     - Elie De Seze (2020, ENS Paris-Saclay L3).
