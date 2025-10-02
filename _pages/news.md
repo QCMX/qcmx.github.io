@@ -2,12 +2,18 @@
 - October 2025: Welcome to Elyjah who joined QCMX for a post-doc!
 - October 2025: Welcome to Hadrien who joined the group as a chargé de recherche!
 - September 2025: Goodbye to Hadrien who just got a permanent position.
-- September 2025: Congratulations to Hannes for his successful PhD defense! Well done! 🥳 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Defense_Hannes.jpg" width="100">
+- September 2025: Congratulations to Hannes for his successful PhD defense! Well done! 🥳
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Defense_Hannes.jpg" width="400">
+</div>
 - September 2025: QCMX was highlighted in the latest news feature on [Polytechnique website](https://www.polytechnique.edu/en/news/carbon-nanotube-based-superconducting-quantum-bit) for Hannes' work on the carbon nanotube gatemon 📰.
 - September 2025: Sugeiva is now a PhD student in the group.
 - July 2025: :page_with_curl: Congratulations to Hannes for his article on a nanotube gatemon, published in [Nature Communication](https://doi.org/10.1038/s41467-025-62283-y): "The carbon nanotube gatemon".
 - May 2025: Wishing Everton a warm and joyful farewell! 🌟 Best of luck in your new adventure at [LNNano](https://lnnano.cnpem.br/en/home-en/). We’ll truly miss you here.
 - May 2025: Congratulations to Samy for his successful PhD defense! Well done! 🥳
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Defense_Samy.jpg" width="400">
+</div>
 - April 2025: Congratulations to Joël for his manuscript on the pinhole Josephson junctions! :page_with_curl: Pre-print on [arXiv](https://arxiv.org/abs/2504.21494).
 - April 2025: Welcome to Ángel who joined the group as a [RobustSuperQ](https://www.robustsuperq.fr/)) post-doc!
 - March 2025: Congratulations to Hadrien on being ranked at the CNRS concours! :tada:
