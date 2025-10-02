@@ -4,17 +4,24 @@
 - September 2025: Goodbye to Hadrien who just got a permanent position.
 - September 2025: Congratulations to Hannes for his successful PhD defense! Well done! 🥳
 <div style="text-align: center;">
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Defense_Hannes.jpg" width="400">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/Defense_Hannes.jpg" width="400">
 </div>
 - September 2025: QCMX was highlighted in the latest news feature on [Polytechnique website](https://www.polytechnique.edu/en/news/carbon-nanotube-based-superconducting-quantum-bit) for Hannes' work on the carbon nanotube gatemon 📰.
 - September 2025: Sugeiva is now a PhD student in the group.
 - July 2025: :page_with_curl: Congratulations to Hannes for his article on a nanotube gatemon, published in [Nature Communication](https://doi.org/10.1038/s41467-025-62283-y): "The carbon nanotube gatemon".
 - May 2025: Wishing Everton a warm and joyful farewell! 🌟 Best of luck in your new adventure at [LNNano](https://lnnano.cnpem.br/en/home-en/). We’ll truly miss you here.
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/Everton_departure.JPG" width="400">
+</div>
 - May 2025: Congratulations to Samy for his successful PhD defense! Well done! 🥳
 <div style="text-align: center;">
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Defense_Samy.jpg" width="400">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/Defense_Samy.jpg" width="400">
 </div>
 - April 2025: Congratulations to Joël for his manuscript on the pinhole Josephson junctions! :page_with_curl: Pre-print on [arXiv](https://arxiv.org/abs/2504.21494).
+- April 2025: JD and Joël went to Lyon for the RobustSuperQ Days!
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/RobustSuperQ.jpg" width="500">
+</div>
 - April 2025: Welcome to Ángel who joined the group as a [RobustSuperQ](https://www.robustsuperq.fr/)) post-doc!
 - March 2025: Congratulations to Hadrien on being ranked at the CNRS concours! :tada:
 - March 2025: Welcome to Sugeiva and Tien who joined the group as M2 interns!
@@ -23,6 +30,10 @@
 
 
 ## 2024
+- Dec 2024: Nice plenary session of the GDR meso, featuring talks by Joël and Hannes!
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/aussois2024.jpg" width="400">
+</div>
 - Dec 2024: :page_with_curl: Second experimental article by QCMX, published in [Phys. Rev. Applied](https://doi.org/10.1103/PhysRevApplied.22.064035): "Ultraclean carbon nanotube-based Josephson junctions".
 - Dec 2024: :page_with_curl: First experimental article by QCMX, published in [Phys. Rev. Applied](https://doi.org/10.1103/PhysRevApplied.22.064027): "Two-tone spectroscopy of high-frequency quantum circuits with a Josephson emitter".
 - Sep 2024: Congrats to JD who was appointed Professor. :mortar_board:
