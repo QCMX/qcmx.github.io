@@ -2,13 +2,29 @@
 - October 2025: Welcome to Elyjah who joined QCMX for a post-doc!
 - October 2025: Welcome to Hadrien who joined the group as a chargé de recherche!
 - September 2025: Goodbye to Hadrien who just got a permanent position.
+- September 2025: Landry was invited to give a talk at the [QTech conference](https://www.qtech-budapest.eu/) at the Hungarian Academy of Sciences in Budapest.
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/budapest2025.jpg" width="400">
+</div>
 - September 2025: Congratulations to Hannes for his successful PhD defense! Well done! 🥳
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/Defense_Hannes.jpg" width="400">
 </div>
 - September 2025: QCMX was highlighted in the latest news feature on [Polytechnique website](https://www.polytechnique.edu/en/news/carbon-nanotube-based-superconducting-quantum-bit) for Hannes' work on the carbon nanotube gatemon 📰.
 - September 2025: Sugeiva is now a PhD student in the group.
+- August 2025: Samy gave a lecture on quantum dots at the [Petnica Summer Institute](http://psi.petnica.rs/2025_exp/description.php).
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/petnica2025.jpg" width="400">
+</div>
 - July 2025: :page_with_curl: Congratulations to Hannes for his article on a nanotube gatemon, published in [Nature Communication](https://doi.org/10.1038/s41467-025-62283-y): "The carbon nanotube gatemon".
+- June 2025: Landry gave a seminar at the [Quantum Frontiers Summer School](https://irllfqcorse2025.sciencesconf.org/) in Cargèse.
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/cargese2025.jpg" width="400">
+</div>
+- May 2025: Landry and Ambroise were invited to give a talk at the [Bad Honnef](https://www.we-heraeus-stiftung.de/veranstaltungen/superconducting-quantum-circuits-meet-quantum-materials/) *superconducting quantum circuits meet quantum materials* seminar. Hannes and Samy joined for the conference and Hannes won a prize for his poster!
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/badhonnef2025.jpg" width="400">
+</div>
 - May 2025: Wishing Everton a warm and joyful farewell! 🌟 Best of luck in your new adventure at [LNNano](https://lnnano.cnpem.br/en/home-en/). We’ll truly miss you here.
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/Everton_departure.JPG" width="400">
@@ -36,8 +52,20 @@
 </div>
 - Dec 2024: :page_with_curl: Second experimental article by QCMX, published in [Phys. Rev. Applied](https://doi.org/10.1103/PhysRevApplied.22.064035): "Ultraclean carbon nanotube-based Josephson junctions".
 - Dec 2024: :page_with_curl: First experimental article by QCMX, published in [Phys. Rev. Applied](https://doi.org/10.1103/PhysRevApplied.22.064027): "Two-tone spectroscopy of high-frequency quantum circuits with a Josephson emitter".
+- October 2024: Samy and Hannes gave back-to-back presentations at the [SuperGate workshop on Gate-Controlled Superconductivity](https://conferences.phys.unisa.it/supergate2024/).
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/supergate2024.JPG" width="400">
+</div>
+- October 2024: Landry gave a lecture on mesoscopic superconductivity at the [MesoSchool](https://mesoschool2024.sciencesconf.org/) in Cargèse. Maxime attended and presented a poster.
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/cargese2024.jpg" width="400">
+</div>
 - Sep 2024: Congrats to JD who was appointed Professor. :mortar_board:
 - June 2024: Congrats to Joël who was awarded a young researcher grant from ANR. 💰
+- May 2024: Joël was invited to give a talk at the [Laboratoire Frontières Quantiques] colloquium in Jouvence, Québec.
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/jouvence2024.jpg" width="400">
+</div>
 - Feb 2024: Congrats to Joël for his paper published in [Physical Review X](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.011011) on the implementation of a microwave photon-number amplifier using a dc-Biased Josephson junction.
 
 ## 2023
