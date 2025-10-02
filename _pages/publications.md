@@ -32,6 +32,9 @@ title: List of publications
 
 # Thesis & Reports
 
+## 2025
+- S. Annabi. *Local and non-local Josephson effect in ultraclean carbon nanotube-based Josephson junctions*. Institut Polytechnique de Paris, 2025 ([PhD thesis](https://theses.hal.science/tel-05265252v1)).
+
 ## 2023
 - J.-D. Pillet. *Nonlocality of Andreev Bound States*. Institut Polytechnique de Paris, 2023 ([HDR report](https://hal.science/tel-04261024/document)).
 
