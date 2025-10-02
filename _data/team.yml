@@ -33,6 +33,7 @@
   decode: true
   orcid: 0000-0003-0506-126X
   phone: "+33 16933 4758"
+  photo: /assets/images/team/hadrien.jpg
 - name: Ángel Ibabe
   description: Post-Doc
   group: "post-doc"
@@ -62,6 +63,7 @@
   email: rylwnu.xvlbbxn@cbylgrpuavdhr.rqh
   decode: true
   orcid: 0009-0007-5055-1950
+  photo: /assets/images/team/elyjah.jpg
 - name: Maxime Hantute
   url: https://pmc.polytechnique.fr/spip.php?article1478
   description: PhD Student
