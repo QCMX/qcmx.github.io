@@ -21,7 +21,7 @@
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/cargese2025.jpg" width="400">
 </div>
-- May 2025: Landry and Ambroise were invited to give a talk at the [Bad Honnef](https://www.we-heraeus-stiftung.de/veranstaltungen/superconducting-quantum-circuits-meet-quantum-materials/) *superconducting quantum circuits meet quantum materials* seminar. Hannes and Samy joined for the conference and Hannes won a prize for his poster!
+- May 2025: Landry and Ambroise were invited to give a talk at the [Bad Honnef](https://www.we-heraeus-stiftung.de/veranstaltungen/superconducting-quantum-circuits-meet-quantum-materials/) superconducting quantum circuits meet quantum materials seminar. Hannes and Samy joined for the conference and Hannes won a prize for his poster!
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/badhonnef2025.jpg" width="400">
 </div>
@@ -62,7 +62,7 @@
 </div>
 - Sep 2024: Congrats to JD who was appointed Professor. :mortar_board:
 - June 2024: Congrats to Joël who was awarded a young researcher grant from ANR. 💰
-- May 2024: Joël was invited to give a talk at the [Laboratoire Frontières Quantiques] colloquium in Jouvence, Québec.
+- May 2024: Joël was invited to give a talk at the [Laboratoire Frontières Quantiques](https://irllfqjouvence2024.sciencesconf.org/) colloquium in Jouvence, Québec.
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/jouvence2024.jpg" width="400">
 </div>
