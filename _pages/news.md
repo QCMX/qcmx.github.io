@@ -1,4 +1,11 @@
 ## 2025
+- October 2025: Thanks Samy for organizing an informal workshop on quantum circuits in Polytechnique!
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/samyworkshop/Ognjen.jpg" width="150">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/samyworkshop/Alex.jpg" width="150">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/samyworkshop/Tess.jpg" width="150">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/samyworkshop/Andriani.jpg" width="150">
+</div>
 - October 2025: Welcome to Elyjah who joined QCMX for a post-doc!
 - October 2025: Welcome to Hadrien who joined the group as a chargé de recherche!
 - September 2025: Goodbye to Hadrien who just got a permanent position.
