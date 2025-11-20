@@ -76,7 +76,7 @@
 - Dec 2023: We just measured quantum coherence of carbon nanotube-based gatemon qubit! Exciting.
 - Dec 2023: Landry was invited by President Macron at the Elysée. Totally unexpected and totally awesome!
 <div style="text-align: center;">
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/SelfieMacron.jpg" width="400">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/SelfieMacron.jepg" width="400">
 </div>
 - Nov 2023 : Congrats to Samy and JD for their great talks at the [Plenary Conference of the Quantum Mesoscopic Physics GDR](https://gdr-meso-ple-23.sciencesconf.org/), at Aussois.
 - Oct 2023: Congrats to JD who just defended his Accreditation to Supervise Research (HDR).
