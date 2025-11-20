@@ -3,7 +3,7 @@
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/samyworkshop/samyworkshop.jpg" width="600">
 </div>
-- October 2025: Landry was interviewed in a [podcast](https://smartlink.ausha.co/xpert-talks/1-explorer-la-deuxieme-revolution-quantique-avec-landry-bretheau) about quantum physics. 
+- October 2025: Landry was interviewed in a [podcast](https://smartlink.ausha.co/xpert-talks/1-explorer-la-deuxieme-revolution-quantique-avec-landry-bretheau) about quantum physics.
 - October 2025: Welcome to Elyjah who joined QCMX for a post-doc!
 - October 2025: Welcome to Hadrien who joined the group as a chargé de recherche!
 - September 2025: Goodbye to Hadrien who just got a permanent position.
