@@ -20,7 +20,7 @@
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/petnica2025.jpg" width="400">
 </div>
-- July 2025: :page_with_curl: Congratulations to Hannes for his article on a nanotube gatemon, published in [Nature Communication](https://doi.org/10.1038/s41467-025-62283-y): "The carbon nanotube gatemon".
+- July 2025: :page_with_curl: Congratulations to Hannes for his article on a nanotube gatemon, published in [Nature Communications](https://doi.org/10.1038/s41467-025-62283-y): "The carbon nanotube gatemon".
 - June 2025: Landry gave a seminar at the [Quantum Frontiers Summer School](https://irllfqcorse2025.sciencesconf.org/) in Cargèse.
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/cargese2025.jpg" width="400">
