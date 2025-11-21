@@ -82,6 +82,7 @@
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/PMCProspectiveDays24.jpeg" width="500">
 </div>
+- Feb 2024: Landry was invited to give a broad audience talk at the Conférence Esprit des Sciences at Lycée Montaigne, Bordeaux.
 - Feb 2024: Congrats to Joël for his paper published in [Physical Review X](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.011011) on the implementation of a microwave photon-number amplifier using a dc-Biased Josephson junction.
 
 ## 2023
