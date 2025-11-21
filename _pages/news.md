@@ -85,7 +85,7 @@
 - Dec 2023: We just measured quantum coherence of carbon nanotube-based gatemon qubit! Exciting.
 - Dec 2023: Landry was invited by President Macron at the Elysée. Totally unexpected and totally awesome!
 <div style="text-align: center;">
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/SelfieMacron.jpeg" width="300">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/SelfieMacron.jpeg" width="250">
 </div>
 - Nov 2023 : Congrats to Samy and JD for their great talks at the [Plenary Conference of the Quantum Mesoscopic Physics GDR](https://gdr-meso-ple-23.sciencesconf.org/) at Aussois, which was co-organised by Landry.
 <div style="text-align: center;">
@@ -107,6 +107,9 @@
 - Sep 2022: Welcome to Joël who joined the group as an Assistant Professor!
 - Aug 2022: Goodbye to Joël who just got a permanent position.
 - June 2022: Congrats to Landry who just defended his Accreditation to Supervise Research (HDR).
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/LBHDR22.jpg" width="400">
+</div>
 - Feb 2022: Joël published a nice popularization article in PMC’s newsletter on how a dilution fridge works.
 - Feb 2022: Welcome to Everton who joined the group as a Research Engineer.
 - Jan 2022: Hannes built 2 fancy RF sample-holders called JAWS. Thanks Marius and the ENS team.
