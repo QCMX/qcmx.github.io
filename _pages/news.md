@@ -75,6 +75,10 @@
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/RobustSuperQ24.JPG" width="500">
 </div>
+- Feb 2024: The whole group took part to the PMC Prospective Days at Saint-Lambert.
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/PMCProspectiveDays24.jpeg" width="500">
+</div>
 - Feb 2024: Congrats to Joël for his paper published in [Physical Review X](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.011011) on the implementation of a microwave photon-number amplifier using a dc-Biased Josephson junction.
 
 ## 2023
