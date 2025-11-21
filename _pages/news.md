@@ -95,7 +95,7 @@
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/JDAussois23.jpg" width="500">
 </div>
-- Nov 2023: Landry was invited to the broad audience conference [L'Agora des Nanos](https://www.theatredelaville-paris.com/fr/spectacles/projets-passerelles/rencontres/poster-gouter) at Théâtre de la Ville, Paris.
+- Nov 2023: Landry was invited to the broad audience conference [L'Agora des Nanos](https://www.theatredelaville-paris.com/fr/spectacles/projets-passerelles/rencontres/poster-gouter) for a poster-goûter at Théâtre de la Ville, Paris.
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/AgoraNano23.JPG" width="400">
 </div>
