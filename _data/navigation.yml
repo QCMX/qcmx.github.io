@@ -7,6 +7,8 @@ main:
     url: /news/
   - title: "Publications"
     url: /publications/
+  - title: "Group photos"
+    url: /photos/
   - title: "Lab tour"
     url: /labtour/
   - title: "Getting there"
