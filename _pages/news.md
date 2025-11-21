@@ -87,7 +87,10 @@
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/SelfieMacron.jpeg" width="300">
 </div>
-- Nov 2023 : Congrats to Samy and JD for their great talks at the [Plenary Conference of the Quantum Mesoscopic Physics GDR](https://gdr-meso-ple-23.sciencesconf.org/), at Aussois.
+- Nov 2023 : Congrats to Samy and JD for their great talks at the [Plenary Conference of the Quantum Mesoscopic Physics GDR](https://gdr-meso-ple-23.sciencesconf.org/) at Aussois, which was co-organised by Landry.
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/JDAussois23.jpg" width="500">
+</div>
 - Oct 2023: Congrats to JD who just defended his Accreditation to Supervise Research (HDR).
 - Oct 2023: Welcome to Maxime & Hadrien who joined the group as PhD Student and Postdoc.
 - Sep 2023: We were awarded a grant by the French Quantum Plan ([PEPR RobustSuperQ)](https://www.robustsuperq.fr/)).
