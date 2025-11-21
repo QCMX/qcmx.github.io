@@ -91,9 +91,13 @@
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/SelfieMacron.jpeg" width="250">
 </div>
-- Nov 2023 : Congrats to Samy and JD for their great talks at the [Plenary Conference of the Quantum Mesoscopic Physics GDR](https://gdr-meso-ple-23.sciencesconf.org/) at Aussois, which was co-organised by Landry.
+- Nov 2023: Congrats to Samy and JD for their great talks at the [Plenary Conference of the Quantum Mesoscopic Physics GDR](https://gdr-meso-ple-23.sciencesconf.org/) at Aussois, which was co-organised by Landry.
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/JDAussois23.jpg" width="500">
+</div>
+- Nov 2023: Landry was invited to the broad audience conference [L'Agora des Nanos](https://www.theatredelaville-paris.com/fr/spectacles/projets-passerelles/rencontres/poster-gouter) at Théâtre de la Ville, Paris.
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/AgoraNano23.JPG" width="400">
 </div>
 - Oct 2023: Congrats to JD who just defended his Accreditation to Supervise Research (HDR).
 - Oct 2023: Welcome to Maxime & Hadrien who joined the group as PhD Student and Postdoc.
