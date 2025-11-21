@@ -71,6 +71,10 @@
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/jouvence2024.jpg" width="400">
 </div>
+- Mars 2024: JD and Landry went to Grenoble for the RobustSuperQ Days!
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/RobustSuperQ24.JPG" width="500">
+</div>
 - Feb 2024: Congrats to Joël for his paper published in [Physical Review X](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.011011) on the implementation of a microwave photon-number amplifier using a dc-Biased Josephson junction.
 
 ## 2023
