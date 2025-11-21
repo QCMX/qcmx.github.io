@@ -1,23 +1,23 @@
 ## 2025
-- October 2025: Thanks Samy for organizing an informal workshop on quantum circuits in Polytechnique!
+- Oct 2025: Thanks Samy for organizing an informal workshop on quantum circuits in Polytechnique!
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/samyworkshop/samyworkshop.jpg" width="600">
 </div>
-- October 2025: Landry was interviewed in a [podcast](https://smartlink.ausha.co/xpert-talks/1-explorer-la-deuxieme-revolution-quantique-avec-landry-bretheau) about quantum physics.
-- October 2025: Welcome to Elyjah who joined QCMX for a post-doc!
-- October 2025: Welcome to Hadrien who joined the group as a chargé de recherche!
-- September 2025: Goodbye to Hadrien who just got a permanent position.
-- September 2025: Landry was invited to give a talk at the [QTech conference](https://www.qtech-budapest.eu/) at the Hungarian Academy of Sciences in Budapest.
+- Oct 2025: Landry was interviewed in a [podcast](https://smartlink.ausha.co/xpert-talks/1-explorer-la-deuxieme-revolution-quantique-avec-landry-bretheau) about quantum physics.
+- Oct 2025: Welcome to Elyjah who joined QCMX for a post-doc!
+- Oct 2025: Welcome to Hadrien who joined the group as a chargé de recherche!
+- Sep 2025: Goodbye to Hadrien who just got a permanent position.
+- Sep 2025: Landry was invited to give a talk at the [QTech conference](https://www.qtech-budapest.eu/) at the Hungarian Academy of Sciences in Budapest.
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/budapest2025.jpg" width="400">
 </div>
-- September 2025: Congratulations to Hannes for his successful PhD defense! Well done! 🥳
+- Sep 2025: Congratulations to Hannes for his successful PhD defense! Well done! 🥳
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/Defense_Hannes.jpg" width="400">
 </div>
-- September 2025: QCMX was highlighted in the latest news feature on [Polytechnique website](https://www.polytechnique.edu/en/news/carbon-nanotube-based-superconducting-quantum-bit) for Hannes' work on the carbon nanotube gatemon 📰.
-- September 2025: Sugeiva is now a PhD student in the group.
-- August 2025: Samy gave a lecture on quantum dots at the [Petnica Summer Institute](http://psi.petnica.rs/2025_exp/description.php).
+- Sep 2025: QCMX was highlighted in the latest news feature on [Polytechnique website](https://www.polytechnique.edu/en/news/carbon-nanotube-based-superconducting-quantum-bit) for Hannes' work on the carbon nanotube gatemon 📰.
+- Sep 2025: Sugeiva is now a PhD student in the group.
+- Aug 2025: Samy gave a lecture on quantum dots at the [Petnica Summer Institute](http://psi.petnica.rs/2025_exp/description.php).
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/petnica2025.jpg" width="400">
 </div>
@@ -38,17 +38,20 @@
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/Defense_Samy.jpg" width="400">
 </div>
-- April 2025: Congratulations to Joël for his manuscript on the pinhole Josephson junctions! :page_with_curl: Pre-print on [arXiv](https://arxiv.org/abs/2504.21494).
-- April 2025: JD and Joël went to Lyon for the RobustSuperQ Days!
+- Apr 2025: Congratulations to Joël for his manuscript on the pinhole Josephson junctions! :page_with_curl: Pre-print on [arXiv](https://arxiv.org/abs/2504.21494).
+- Apr 2025: JD and Joël went to Lyon for the RobustSuperQ Days!
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/RobustSuperQ.jpg" width="500">
 </div>
-- April 2025: Welcome to Ángel who joined the group as a [RobustSuperQ](https://www.robustsuperq.fr/)) post-doc!
-- March 2025: Congratulations to Hadrien on being ranked at the CNRS concours! :tada:
-- March 2025: Welcome to Sugeiva and Tien who joined the group as M2 interns!
+- Apr 2025: Welcome to Ángel who joined the group as a [RobustSuperQ](https://www.robustsuperq.fr/)) post-doc!
+- Mar 2025: Congratulations to Hadrien on being ranked at the CNRS concours! :tada:
+- Mar 2025: Welcome to Sugeiva and Tien who joined the group as M2 interns!
 - Feb 2025: Welcome to Thibault who joined the group as a M2 intern!
 - Feb 2025: Jérémy Barande and Didier Vladimir Rouable from the photo and audiovisual departments came to the lab for a photo shooting. Nice photos [here](https://www.flickr.com/photos/117994717@N06/54350277304/in/album-72157642630504414). :camera:
-
+- Jan 2025: Landry was invited to give a talk at the broad audience [IPR conference](https://www.youtube.com/watch?v=Zj3bilBM2dg&t=6s) at Institut de Physique de Rennes.
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/LBIPR25.png" width="400">
+</div>
 
 ## 2024
 - Dec 2024: Nice plenary session of the GDR meso, featuring talks by Joël and Hannes!
@@ -57,11 +60,11 @@
 </div>
 - Dec 2024: :page_with_curl: Second experimental article by QCMX, published in [Phys. Rev. Applied](https://doi.org/10.1103/PhysRevApplied.22.064035): "Ultraclean carbon nanotube-based Josephson junctions".
 - Dec 2024: :page_with_curl: First experimental article by QCMX, published in [Phys. Rev. Applied](https://doi.org/10.1103/PhysRevApplied.22.064027): "Two-tone spectroscopy of high-frequency quantum circuits with a Josephson emitter".
-- October 2024: Samy and Hannes gave back-to-back presentations at the [SuperGate workshop on Gate-Controlled Superconductivity](https://conferences.phys.unisa.it/supergate2024/).
+- Oct 2024: Samy and Hannes gave back-to-back presentations at the [SuperGate workshop on Gate-Controlled Superconductivity](https://conferences.phys.unisa.it/supergate2024/).
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/supergate2024.JPG" width="400">
 </div>
-- October 2024: Landry gave a lecture on mesoscopic superconductivity at the [MesoSchool](https://mesoschool2024.sciencesconf.org/) in Cargèse. Maxime attended and presented a poster.
+- Oct 2024: Landry gave a lecture on mesoscopic superconductivity at the [MesoSchool](https://mesoschool2024.sciencesconf.org/) in Cargèse. Maxime attended and presented a poster.
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/cargese2024.jpg" width="400">
 </div>
