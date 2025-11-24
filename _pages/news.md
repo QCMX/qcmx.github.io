@@ -26,7 +26,7 @@
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/cargese2025.jpg" width="400">
 </div>
-- May 2025: Landry and Ambroise were invited to give a talk at the [Bad Honnef](https://www.we-heraeus-stiftung.de/veranstaltungen/superconducting-quantum-circuits-meet-quantum-materials/) superconducting quantum circuits meet quantum materials seminar. Hannes and Samy joined for the conference and Hannes won a prize for his poster!
+- May 2025: Landry and Ambroise were invited to give a talk at the [WE Heraeus Seminar "Superconducting Quantum Circuits meet Quantum Materials"](https://www.we-heraeus-stiftung.de/veranstaltungen/superconducting-quantum-circuits-meet-quantum-materials/), at the Physikzentrum, Bad Honnef, Germany. Hannes and Samy joined for the conference and Hannes won a prize for his poster!
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/badhonnef2025.jpg" width="400">
 </div>
@@ -126,6 +126,7 @@
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/LBHDR22.jpg" width="400">
 </div>
+- May 2022: Landry was invited to give a talk at the [WE Heraeus Seminar "Novel Quantum Phases in Superconducting Heterostructures"](https://www.we-heraeus-stiftung.de/veranstaltungen/novel-quantum-phases-in-superconducting-heterostructures/), at the Physikzentrum, Bad Honnef, Germany.  Hannes joined with a poster.
 - Feb 2022: Joël published a nice popularization article in PMC’s newsletter on how a dilution fridge works.
 - Feb 2022: Welcome to Everton who joined the group as a Research Engineer.
 - Jan 2022: Hannes built 2 fancy RF sample-holders called JAWS. Thanks Marius and the ENS team.
