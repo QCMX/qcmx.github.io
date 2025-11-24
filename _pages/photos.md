@@ -16,6 +16,10 @@ group_gallery:
     image_path: /assets/images/qcmx_team_2022-nov.jpg
     alt: "QCMX nov21"
     title: "The QCMX team in Aussois (Nov 2022)."
+  - url: /assets/images/RestoHDRJD.jpeg
+    image_path: /assets/images/RestoHDRJD.jpeg
+    alt: "QCMX nov21"
+    title: "Restaurant for JD's HDR (Oct 2023)."
   - url: /assets/images/Aussois23.jpg
     image_path: /assets/images/Aussois23.jpg
     alt: "QCMX nov21"
