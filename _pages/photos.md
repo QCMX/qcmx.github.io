@@ -36,6 +36,10 @@ group_gallery:
     image_path: /assets/images/Group Picture_QCMX_2025_small.jpg
     alt: "QCMX nov21"
     title: "The QCMX team in February 2025."
+  - url: /assets/images/WelcomeJeanLoupElyjah.jpeg
+    image_path: /assets/images/WelcomeJeanLoupElyjah.jpeg
+    alt: "QCMX nov21"
+    title: "Welcoming new members (Nov 2025)."
     
 
 ---
