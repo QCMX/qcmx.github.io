@@ -122,9 +122,9 @@
 - Oct 2022: We measured a gate-dependent supercurrent in a carbon nanotube! Isw = 200 pA.
 - Sep 2022: Welcome to Joël who joined the group as an Assistant Professor!
 - Aug 2022: Goodbye to Joël who just got a permanent position.
-- June 2022: Congrats to Landry who just defended his Accreditation to Supervise Research (HDR).
+- June 2022: Congrats to Landry who just defended his Accreditation to Supervise Research (HDR). Great jury composed of Jacqueline Bloch, Benoît Douçot, Marcelo Goffman, Javier Sanchez-Yamagishi and Olivier Buisson.
 <div style="text-align: center;">
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/LBHDR22.jpg" width="400">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/LBHDR22.jpg" width="500">
 </div>
 - May 2022: Landry was invited to give a talk at the [WE Heraeus Seminar "Novel Quantum Phases in Superconducting Heterostructures"](https://www.we-heraeus-stiftung.de/veranstaltungen/novel-quantum-phases-in-superconducting-heterostructures/), at the Physikzentrum, Bad Honnef, Germany.  Hannes joined with a poster.
 - Feb 2022: Joël published a nice popularization article in PMC’s newsletter on how a dilution fridge works.
