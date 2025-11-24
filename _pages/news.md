@@ -95,7 +95,7 @@
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/JDAussois23.jpg" width="500">
 </div>
-- Nov 2023: Landry was invited to give a talk on Weyl Josephson Circuits at the [International Conference on Quantum Simulation](https://icqsim2023.sciencesconf.org/) at Ecole Polytechnique, Palaiseau.
+- Nov 2023: Landry was invited to give a talk at the [International Conference on Quantum Simulation](https://icqsim2023.sciencesconf.org/) at Polytechnique, Palaiseau.
 - Nov 2023: Landry was invited to the broad audience conference [L'Agora des Nanos](https://www.theatredelaville-paris.com/fr/spectacles/projets-passerelles/rencontres/poster-gouter) for a poster-goûter at Théâtre de la Ville, Paris.
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/AgoraNano23.JPG" width="400">
@@ -106,6 +106,7 @@
 - Sep 2023: New paper by QCMX published in [Physical Review Research](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033199) on the Josephson Diode Effect (aka JD effect) in an Andreev molecule.
 - Sep 2023: Landry was interviewed by [Polytechnique Insights](https://www.polytechnique-insights.com/en/columns/science/quantum-computing-15-minutes-to-understand-everything/%20Video:%20https:/www.youtube.com/watch/?v=HZoCqyFyH_c) together with Loïc Henriet from Pasqal on Quantum Computing. Check out the [video](https://www.youtube.com/watch?v=HZoCqyFyH_c).
 - Aug 2023: Nice measurements of 0-pi quantum phase transitions in a carbon nanotube-based Josephson junction, with fourfold periodicity revealing spin and valley degeneracy.
+- May 2023: Landry was invited to give a talk at the [Colloque IRL Frontières Quantiques](https://irllfqparis2023.sciencesconf.org/) at Université Paris Cité.
 - May 2023: Great tribute conference for Fabien Portier at SPEC, CEA. RIP.
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/Fab4ever.png" width="400">
