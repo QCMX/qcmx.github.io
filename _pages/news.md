@@ -1,5 +1,5 @@
 ## 2025
-- Nov 2025: We just got 2 new JAWS (RF sample-holders). Thanks to Anne, Pascal, Marius and Philippe from the ENS team.
+- Nov 2025: We just got 2 new JAWS (RF sample-holders). Thanks to Anne, Pascal, Marius, Philippe and the ENS team.
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/samyworkshop/JAWS.jpg" width="400">
 </div>
