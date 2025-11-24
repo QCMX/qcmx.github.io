@@ -107,6 +107,9 @@
 - Sep 2023: Landry was interviewed by [Polytechnique Insights](https://www.polytechnique-insights.com/en/columns/science/quantum-computing-15-minutes-to-understand-everything/%20Video:%20https:/www.youtube.com/watch/?v=HZoCqyFyH_c) together with Loïc Henriet from Pasqal on Quantum Computing. Check out the [video](https://www.youtube.com/watch?v=HZoCqyFyH_c).
 - Aug 2023: Nice measurements of 0-pi quantum phase transitions in a carbon nanotube-based Josephson junction, with fourfold periodicity revealing spin and valley degeneracy.
 - May 2023: Great tribute conference for Fabien Portier at SPEC, CEA. RIP.
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/Fab4ever.png" width="400">
+</div>
 - Mar 2023: Landry & JD were interviewed by [Rayon X](https://www.youtube.com/watch?v=PxxnyOoBBXo), who puts the spotlight on scientists.
 - Mar 2023: Farewell to Ambroise who just got a super postdoc position at ENS Lyon. Have fun with DC-pumped cat qubits!
 - Feb 2023: We measured large supercurrents in a carbon nanotube, up to 8 nA. And some fancy non-local Josephson effect.
