@@ -20,6 +20,11 @@ group_gallery:
     image_path: /assets/images/PMCFootBallClub.jpeg
     alt: "PMC FC"
     title: "Football team of PMC lab."
+  - url: /assets/images/Group Picture_QCMX_2025.jpg
+    image_path: /assets/images/Group Picture_QCMX_2025_small.jpgg
+    alt: "QCMX nov21"
+    title: "The QCMX team in February 2025."
+    
 
 ---
 
