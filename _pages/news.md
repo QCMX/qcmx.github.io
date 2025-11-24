@@ -99,6 +99,7 @@
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/AgoraNano23.JPG" width="400">
 </div>
+- Nov 2023: Landry was invited to give a talk at the [International Conference on Quantum Simulation](https://icqsim2023.sciencesconf.org/) at Ecole Polytechnique, Palaiseau.
 - Oct 2023: Congrats to JD who just defended his Accreditation to Supervise Research (HDR).
 - Oct 2023: Welcome to Maxime & Hadrien who joined the group as PhD Student and Postdoc.
 - Sep 2023: We were awarded a grant by the French Quantum Plan ([PEPR RobustSuperQ)](https://www.robustsuperq.fr/)).
