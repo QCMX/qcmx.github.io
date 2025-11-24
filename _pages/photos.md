@@ -19,7 +19,7 @@ group_gallery:
    - url: /assets/images/RestoHDRJD.jpeg
     image_path: /assets/images/RestoHDRJD.jpeg
     alt: "QCMX nov21"
-    title: "Restaurant for HDR of Jean-Damien (Oct 2023)."
+    title: "Restaurant for JD's HDR (Oct 2023)."
   - url: /assets/images/Aussois23.jpg
     image_path: /assets/images/Aussois23.jpg
     alt: "QCMX nov21"
