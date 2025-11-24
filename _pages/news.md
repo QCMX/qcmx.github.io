@@ -1,7 +1,7 @@
 ## 2025
 - Nov 2025: We just got 2 new JAWS (RF sample-holders). Thanks to Anne, Pascal, Marius, Philippe and the ENS team.
 <div style="text-align: center;">
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/samyworkshop/JAWS.jpeg" width="400">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/JAWS.jpeg" width="400">
 </div>
 - Oct 2025: Thanks Samy for organizing an informal workshop on quantum circuits in Polytechnique!
 <div style="text-align: center;">
@@ -58,7 +58,7 @@
 </div>
 
 ## 2024
-- Dec 2024: Nice plenary session of the GDR meso, featuring talks by Joël and Hannes!
+- Dec 2024: Nice [Plenary Conference of the Quantum Mesoscopic Physics GDR](https://gdr-meso-ple-24.sciencesconf.org/), featuring talks by Joël and Hannes!
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/aussois2024.jpg" width="400">
 </div>
@@ -187,4 +187,5 @@
 
 ## 2017
 - Dec 2017: The QCMX-lab was awarded a grant from [SIRTEQ](http://www.sirteq.org/).
+- Dec 2017: Landry was invited to give a talk at the [Plenary Conference of the Quantum Mesoscopic Physics GDR](https://gdr-meso-ple17.sciencesconf.org/) at Aussois.
 - Sep 2017: We’ve been hired as Assistant Professors (with Startup Grant and Lab Space). Let’s build from scratch a new lab. Long-live QCMX!
