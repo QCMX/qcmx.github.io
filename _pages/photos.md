@@ -8,6 +8,10 @@ group_gallery:
     image_path: /assets/images/qcmx_team_2021-nov.jpg
     alt: "QCMX nov21"
     title: "The QCMX team in November 2021."
+  - url: /assets/images/LandryJDAussois2021.jpeg
+    image_path: /assets/images/LandryJDAussois2021.jpeg
+    alt: "QCMX nov21"
+    title: "Jd and Landry at Aussois in December 2021."
   - url: /assets/images/qcmx_team_2022-nov.jpg
     image_path: /assets/images/qcmx_team_2022-nov.jpg
     alt: "QCMX nov21"
@@ -16,6 +20,10 @@ group_gallery:
     image_path: /assets/images/Aussois23.jpg
     alt: "QCMX nov21"
     title: "The QCMX team in Aussois, in December 2023."
+  - url: /assets/images/GroupPictureDec23.jpg
+    image_path: /assets/images/GroupPictureDec23.jpg
+    alt: "QCMX nov21"
+    title: "The QCMX team in the Great Hall of Polytechnique, in December 2023."
   - url: /assets/images/PMCFootBallClub.jpeg
     image_path: /assets/images/PMCFootBallClub.jpeg
     alt: "PMC FC"
