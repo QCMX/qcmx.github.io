@@ -95,11 +95,11 @@
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/JDAussois23.jpg" width="500">
 </div>
+- Nov 2023: Landry was invited to give a talk on Weyl Josephson Circuits at the [International Conference on Quantum Simulation](https://icqsim2023.sciencesconf.org/) at Ecole Polytechnique, Palaiseau.
 - Nov 2023: Landry was invited to the broad audience conference [L'Agora des Nanos](https://www.theatredelaville-paris.com/fr/spectacles/projets-passerelles/rencontres/poster-gouter) for a poster-goûter at Théâtre de la Ville, Paris.
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/AgoraNano23.JPG" width="400">
 </div>
-- Nov 2023: Landry was invited to give a talk at the [International Conference on Quantum Simulation](https://icqsim2023.sciencesconf.org/) at Ecole Polytechnique, Palaiseau.
 - Oct 2023: Congrats to JD who just defended his Accreditation to Supervise Research (HDR).
 - Oct 2023: Welcome to Maxime & Hadrien who joined the group as PhD Student and Postdoc.
 - Sep 2023: We were awarded a grant by the French Quantum Plan ([PEPR RobustSuperQ)](https://www.robustsuperq.fr/)).
