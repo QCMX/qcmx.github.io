@@ -3,6 +3,10 @@
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/JAWS.jpeg" width="400">
 </div>
+- Nov 2025: Welcome to Jean-Loup who joined as a research engineer!
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/WelcomeJL.jpeg" width="400">
+</div>
 - Oct 2025: Thanks Samy for organizing an informal workshop on quantum circuits in Polytechnique!
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/samyworkshop/samyworkshop.jpg" width="600">
