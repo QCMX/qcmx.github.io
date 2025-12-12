@@ -1,4 +1,3 @@
-- Everton Arrighi, Research Engineer (2022-2025), now at [LNNano](https://lnnano.cnpem.br/en/home-en/).
 - Ambroise Peugeot, Post-Doc (2020-2023), now at [ENS Lyon](https://www.ens-lyon.fr/PHYSIQUE/presentation/annuaire/peugeot-ambroise).
 - Pierre-Eugène Coulon: Research Engineer (2018-2020).
 - Regular visitors: 

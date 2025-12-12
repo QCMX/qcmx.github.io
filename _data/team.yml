@@ -41,6 +41,14 @@
   email: wrna-ybhc.fzvee@cbylgrpuavdhr.rqh
   decode: true
   orcid: 0000-0002-8532-4607
+- name: Everton Arrighi
+  url: https://pmc.polytechnique.fr/spip.php?article1368
+  description: Research Engineer
+  group: "permanent"
+  email: riregba.neevtuv@cbylgrpuavdhr.rqh
+  decode: true
+  photo: /assets/images/team/everton.png
+  orcid: 0000-0001-7648-3908
 - name: Ángel Ibabe
   description: Post-Doc
   group: "post-doc"
