@@ -1,3 +1,6 @@
+## 2026
+- March 2026: We just received a bottle of Helium 3 for the cryostat coming later this year!
+
 ## 2025
 - Nov 2025: We just got 2 new JAWS (RF sample-holders). Thanks to Anne, Pascal, Marius, Philippe and the ENS team.
 <div style="text-align: center;">
