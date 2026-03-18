@@ -7,6 +7,10 @@
 </div>
 
 ## 2025
+- Dec 2025: Nice [Plenary Conference of the Quantum Mesoscopic Physics GDR](https://gdr-meso-ple-25.sciencesconf.org/), featuring a great invited talk by Hadrien!
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/aussois2025.jpg" width="400">
+</div>
 - Nov 2025: We just got 2 new JAWS (RF sample-holders). Thanks to Anne, Pascal, Marius, Philippe and the ENS team.
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/JAWS.jpeg" width="400">
