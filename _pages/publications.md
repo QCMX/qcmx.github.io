@@ -9,8 +9,8 @@ title: List of publications
 
 ## 2025
 - J. Griesmar, H. Riechert, M. Hantute, A. Peugeot, S. Annabi, Ç. Ö. Girit, G. O. Steffensen, A. L. Yeyati, E. Arrighi, L. Bretheau, J.-D. Pillet.
-*Towards a* cos(2φ) *Josephson element using aluminum junctions with well-transmitted channels.*
-[arXiv](https://arxiv.org/abs/2504.21494) 2504.21494.
+*Towards a* cos(2φ) *Josephson element using aluminum junctions with well-transmitted channels.* [Phys. Rev. Applied](https://journals.aps.org/prapplied/abstract/10.1103/78vl-znpj) **24**, 064065
+[arXiv preprint](https://arxiv.org/abs/2504.21494).
 - H. Riechert, S. Annabi, A. Peugeot, H. Duprez, M. Hantute, K. Watanabe, T. Taniguchi, E. Arrighi, J. Griesmar, J.-D. Pillet, L. Bretheau.
 *The carbon nanotube gatemon qubit.*
 [Nat. Commun.](https://doi.org/10.1038/s41467-025-62283-y) **16**, 7197 [arXiv preprint](https://arxiv.org/abs/2503.01978).
