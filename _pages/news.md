@@ -1,5 +1,10 @@
 ## 2026
 - March 2026: We just received a bottle of Helium 3 for the cryostat coming later this year!
+- Feb 2026: Hadrien’s AFM has arrived and is now up and running. 🔬
+- Jan 2026: A vietnamese TV crew came to make a report on the lab.
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/VTV.jpg" width="400">
+</div>
 
 ## 2025
 - Nov 2025: We just got 2 new JAWS (RF sample-holders). Thanks to Anne, Pascal, Marius, Philippe and the ENS team.
