@@ -7,6 +7,7 @@
 </div>
 
 ## 2025
+- Dec 2025: We had the visit of Yuimaru Kubo, from [OIST (Japan)](https://www.oist.jp/stg/yuimaru-kubo). He gave a great talk on « A near-quantum-limited diamond maser amplifier »
 - Dec 2025: Nice [Plenary Conference of the Quantum Mesoscopic Physics GDR](https://gdr-meso-ple-25.sciencesconf.org/), featuring a great invited talk by Hadrien!
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/aussois2025.jpg" width="400">
