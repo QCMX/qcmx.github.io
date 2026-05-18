@@ -1,4 +1,8 @@
 ## 2026
+- April 2026: Congratulations to Samy who received a prize for his PhD thesis from [C'Nano](https://cnano.fr/2026/01/prix-de-these-2025-les-laureats/).
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/Samyprix.png" width="400">
+</div>
 - March 2026: We just received a bottle of Helium 3 for the cryostat coming later this year!
 - Feb 2026: Hadrien’s AFM has arrived and is now up and running. 🔬
 - Jan 2026: A vietnamese TV crew came to make a report on the lab.
