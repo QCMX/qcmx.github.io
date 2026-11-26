@@ -14,6 +14,11 @@
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/Samyprix.png" width="400">
 </div>
+- April 2026: Landry presented QCMX’s activities to the Minister of Defence, our overseeing ministry.
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/LandryVautrin.jpg" width="400">
+	photo credits: © Ecole polytechnique - Jérémy Barande
+</div>
 - March 2026: Nice [RobustSuperQ](https://www.robustsuperq.fr/) meeting in Paris with a talk by Maxime.
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/RobustMaxime.jpg" width="400">
