@@ -9,6 +9,7 @@
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/MaximeDefense.jpg" width="400">
 </div>
 - July 2026: Farewell to Samy who is leaving for a post-doc at the [LPENS](https://www.lpens.ens.psl.eu/recherche/quant/) in Paris!
+- June 2026: Congrats to Hadrien who was awarded a young researcher grant from ANR. 💰
 - April 2026: Congratulations to Samy who received a prize for his PhD thesis from [C'Nano](https://cnano.fr/2026/01/prix-de-these-2025-les-laureats/).
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/Samyprix.png" width="400">
