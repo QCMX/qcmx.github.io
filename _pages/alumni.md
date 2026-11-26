@@ -1,3 +1,5 @@
+- Maxime Hantute, PhD (2023-2026).
+- Samy Annabi, PhD (2021-2025), Post-Doc (2025-2026), now at [ENS Paris](https://www.lpens.ens.psl.eu/recherche/quant/).
 - Ambroise Peugeot, Post-Doc (2020-2023), now at [ENS Lyon](https://www.ens-lyon.fr/PHYSIQUE/presentation/annuaire/peugeot-ambroise).
 - Pierre-Eugène Coulon: Research Engineer (2018-2020).
 - Regular visitors: 
