@@ -1,7 +1,21 @@
 ## 2026
+- November 2026: Welcome to Aifei who joined QCMX for a post-doc!
+- October 2026: We've received and installed our new Bluefors dilution cryostat! Thanks Daniyil!
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/BellatrixInstallation.png" width="400">
+</div>
+- October 2026: Congratulations to Maxime for his successful PhD defense! Well done! 🥳
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/MaximeDefense.jpg" width="400">
+</div>
+- July 2026: Farewell to Samy who is leaving for a post-doc at the [LPENS](https://www.lpens.ens.psl.eu/recherche/quant/) in Paris!
 - April 2026: Congratulations to Samy who received a prize for his PhD thesis from [C'Nano](https://cnano.fr/2026/01/prix-de-these-2025-les-laureats/).
 <div style="text-align: center;">
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/Samyprix.png" width="400">
+</div>
+- March 2026: Nice [RobustSuperQ](https://www.robustsuperq.fr/) meeting in Paris with a talk by Maxime.
+<div style="text-align: center;">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/news/RobustMaxime.jpg" width="400">
 </div>
 - March 2026: We just received a bottle of Helium 3 for the cryostat coming later this year!
 - Feb 2026: Hadrien’s AFM has arrived and is now up and running. 🔬
