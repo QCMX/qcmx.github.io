@@ -6,6 +6,8 @@ title: List of publications
 
 
 # Articles
+## 2026
+- S. Annabi, H. Riechert, K. Watanabe, T. Taniguchi, J. Griesmar, E. Arrighi, L. Bretheau, J.-D. Pillet. *Fermion parity of an Andreev molecule probed by nonlocal Josephson effect*. [arXiv preprint](https://arxiv.org/abs/2607.15786).
 
 ## 2025
 - J. Griesmar, H. Riechert, M. Hantute, A. Peugeot, S. Annabi, Ç. Ö. Girit, G. O. Steffensen, A. L. Yeyati, E. Arrighi, L. Bretheau, J.-D. Pillet.
@@ -31,8 +33,11 @@ title: List of publications
 ---
 
 # Thesis & Reports
+## 2026
+- M. Hantute. *Probing the Josephson inductance of Andreev bound states in a carbon nanotube with a superconducting resonator*. Institut Polytechnique de Paris, 2026 ([PhD thesis](https://theses.fr/s367987)).
 
 ## 2025
+- H. Riechert. *Coherent control of a carbon nanotube-based gatemon qubit*. Institut Polytechnique de Paris, 2025 ([PhD thesis](https://theses.hal.science/tel-05540095)).
 - S. Annabi. *Local and non-local Josephson effect in ultraclean carbon nanotube-based Josephson junctions*. Institut Polytechnique de Paris, 2025 ([PhD thesis](https://theses.hal.science/tel-05265252v1)).
 
 ## 2023
