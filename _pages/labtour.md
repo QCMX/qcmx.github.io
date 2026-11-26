@@ -64,6 +64,10 @@ sample_gallery:
     image_path: /assets/images/labtour/jawschip_small.jpg
     alt: "Jaws with chip"
     title: "Resonators in a Jaws sample holder."
+  - url: /assets/images/labtour/DCsetup.jpg
+    image_path: /assets/images/labtour/DCsetup.jpg
+    alt: "DC setup"
+    title: "PCB for DC measurements."
 
 
 ---
